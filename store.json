@@ -20,7 +20,7 @@
       "author": "ElectroCookie",
       "description": "클립보드에 저장된 내용을 확인하거나 자주 사용하는 내용을 적어보세요",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/clipboardmanager.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipboardmanager.zip"
     },
     {
@@ -31,7 +31,7 @@
       "author": "ElectroCookie",
       "description": "PC의 소리를 끄거나 조절 또는 동영상 재생 등의 기능을 수행합니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.multimedia.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.multimedia.zip"
     },
     {
@@ -42,7 +42,7 @@
       "author": "ElectroCookie",
       "description": "파일 또는 폴더를 등록하거나 자주 사용하는 단어, 단축키 등을 등록할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.shortcuts.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.shortcuts.zip"
     },
     {
@@ -53,7 +53,7 @@
       "author": "ElectroCookie",
       "description": "사이트 주소를 등록해 사용하거나 웹 페이지에서 드래그하여 바로 사용할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.web.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.web.zip"
     },
     {
@@ -64,7 +64,7 @@
       "author": "ElectroCookie",
       "description": "현재 설치된 플러그인 기능들을 한번에 실행할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookiedeck.multiaction.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookiedeck.multiaction.zip"
     },
     {
@@ -75,7 +75,7 @@
       "author": "ElectroCookie",
       "description": "OBS 방송을 제어합니다. (단독 프로세스 실행)",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/OBS_Studio_logo.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.obs.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.obs.zip"
     },
     {
@@ -86,7 +86,7 @@
       "author": "ElectroCookie",
       "description": "디스코드에서 제어할 수 있는 여러 기능들이 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.zip"
     },
     {
@@ -97,7 +97,7 @@
       "author": "ElectroCookie",
       "description": "어도비 포토샵/일러스트에서 사용 가능한 스크립트를 등록하여 편하게 사용할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.scriptrunner.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.scriptrunner.zip"
     },
     {
@@ -108,7 +108,7 @@
       "author": "ElectroCookie",
       "description": "가상 데스크톱 기능을 사용해 작업, 게임 등 목적을 분리해서 사용해보세요.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.virtualdesktop.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.virtualdesktop.zip"
     },
     {
@@ -119,7 +119,7 @@
       "author": "ElectroCookie",
       "description": "CPU사용률, 네트워크 정보 등 다양한 시스템 정보를 볼 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.systemmonitor.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.systemmonitor.zip"
     },
     {
@@ -130,7 +130,7 @@
       "author": "ElectroCookie",
       "description": "VS CODE와 git에서 자주 사용하는 명령어들이 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vscodedevtools.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vscodedevtools.zip"
     },
     {
@@ -141,7 +141,7 @@
       "author": "ElectroCookie",
       "description": "윈도우 OS에서 창을 원하는 위치에 배치해보세요.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.windowmove.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowmove.zip"
     },
     {
@@ -152,7 +152,7 @@
       "author": "ElectroCookie",
       "description": "컴퓨터에 연결된 여러개의 음향장치를 제어할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.audioswitcher.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.audioswitcher.zip"
     }
   ]
