@@ -13,6 +13,61 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.excel.zip"
     },
     {
+      "uuid": "com.cookie.clipboardmanager",
+      "name": "클립보드 매니저",
+      "category": "업무/생산성",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "클립보드에 저장된 내용을 확인하거나 자주 사용하는 내용을 적어보세요",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipboardmanager.zip"
+    },
+    {
+      "uuid": "com.cookie.multimedia",
+      "name": "멀티미디어 제어",
+      "category": "유틸리티",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "PC의 소리를 끄거나 조절 또는 동영상 재생 등의 기능을 수행합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.multimedia.zip"
+    },
+    {
+      "uuid": "com.cookie.shortcuts",
+      "name": "바로가기 실행",
+      "category": "유틸리티",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "파일 또는 폴더를 등록하거나 자주 사용하는 단어, 단축키 등을 등록할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.shortcuts.zip"
+    },
+    {
+      "uuid": "com.cookie.web",
+      "name": "웹 페이지 실행",
+      "category": "유틸리티",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "사이트 주소를 등록해 사용하거나 웹 페이지에서 드래그하여 바로 사용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.web.zip"
+    },
+    {
+      "uuid": "com.cookiedeck.multiaction",
+      "name": "다중 기능 실행",
+      "category": "유틸리티",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "현재 설치된 플러그인 기능들을 한번에 실행할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookiedeck.multiaction.zip"
+    },
+    {
       "uuid": "com.cookie.obs",
       "name": "OBS Studio",
       "category": "스트리밍",
