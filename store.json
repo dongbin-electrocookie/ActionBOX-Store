@@ -15,7 +15,7 @@
     {
       "uuid": "com.cookie.clipboardmanager",
       "name": "클립보드 매니저",
-      "category": ["업무/생산성", 유틸리티],
+      "category": ["업무/생산성", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "클립보드에 저장된 내용을 확인하거나 자주 사용하는 내용을 적어보세요",
@@ -26,7 +26,7 @@
     {
       "uuid": "com.cookie.multimedia",
       "name": "멀티미디어 제어",
-      "category": ["유틸리티", 오디오/비디오],
+      "category": ["유틸리티", "오디오/비디오"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "PC의 소리를 끄거나 조절 또는 동영상 재생 등의 기능을 수행합니다.",
@@ -37,7 +37,7 @@
     {
       "uuid": "com.cookie.shortcuts",
       "name": "바로가기 실행",
-      "category": ["업무/생산성", 유틸리티],
+      "category": ["업무/생산성", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "파일 또는 폴더를 등록하거나 자주 사용하는 단어, 단축키 등을 등록할 수 있습니다.",
@@ -48,7 +48,7 @@
     {
       "uuid": "com.cookie.web",
       "name": "웹 페이지 실행",
-      "category": ["업무/생산성", 유틸리티],
+      "category": ["업무/생산성", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "사이트 주소를 등록해 사용하거나 웹 페이지에서 드래그하여 바로 사용할 수 있습니다.",
@@ -59,7 +59,7 @@
     {
       "uuid": "com.cookiedeck.multiaction",
       "name": "다중 기능 실행",
-      "category": ["업무/생산성", 유틸리티],
+      "category": ["업무/생산성", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "현재 설치된 플러그인 기능들을 한번에 실행할 수 있습니다.",
@@ -70,7 +70,7 @@
     {
       "uuid": "com.cookie.obs",
       "name": "OBS Studio",
-      "category": ["스트리밍", 오디오/비디오],
+      "category": ["스트리밍", "오디오/비디오"],
       "type": "external",
       "author": "ElectroCookie",
       "description": "OBS 방송을 제어합니다. (단독 프로세스 실행)",
@@ -81,7 +81,7 @@
     {
       "uuid": "com.cookie.discord",
       "name": "디스코드 제어",
-      "category": ["게이밍", 소셜/커뮤니케이션],
+      "category": ["게이밍", "소셜/커뮤니케이션"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "디스코드에서 제어할 수 있는 여러 기능들이 있습니다.",
@@ -125,7 +125,7 @@
     {
       "uuid": "com.cookie.devtools",
       "name": "VS CODE & git 보조도구",
-      "category": "유틸리티",
+      "category": ["유틸리티", "개발"],
       "type": "external",
       "author": "ElectroCookie",
       "description": "VS CODE와 git에서 자주 사용하는 명령어들이 있습니다.",
