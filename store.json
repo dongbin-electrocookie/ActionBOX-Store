@@ -20,7 +20,7 @@
       "author": "ElectroCookie",
       "description": "클립보드에 저장된 내용을 확인하거나 자주 사용하는 내용을 적어보세요",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/clipboardmanager.png",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.clipboardmanager.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipboardmanager.zip"
     },
     {
