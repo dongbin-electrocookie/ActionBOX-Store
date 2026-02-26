@@ -4,7 +4,7 @@
     {
       "uuid": "com.cookie.excel",
       "name": "엑셀 단축키",
-      "category": "업무/생산성",
+      "category": ["업무/생산성"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "엑셀에서 자주 사용하는 단축키들이 있습니다.",
@@ -15,7 +15,7 @@
     {
       "uuid": "com.cookie.clipboardmanager",
       "name": "클립보드 매니저",
-      "category": "업무/생산성",
+      "category": ["업무/생산성", 유틸리티],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "클립보드에 저장된 내용을 확인하거나 자주 사용하는 내용을 적어보세요",
@@ -26,7 +26,7 @@
     {
       "uuid": "com.cookie.multimedia",
       "name": "멀티미디어 제어",
-      "category": "유틸리티",
+      "category": ["유틸리티", 오디오/비디오],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "PC의 소리를 끄거나 조절 또는 동영상 재생 등의 기능을 수행합니다.",
@@ -37,7 +37,7 @@
     {
       "uuid": "com.cookie.shortcuts",
       "name": "바로가기 실행",
-      "category": "유틸리티",
+      "category": ["업무/생산성", 유틸리티],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "파일 또는 폴더를 등록하거나 자주 사용하는 단어, 단축키 등을 등록할 수 있습니다.",
@@ -48,7 +48,7 @@
     {
       "uuid": "com.cookie.web",
       "name": "웹 페이지 실행",
-      "category": "유틸리티",
+      "category": ["업무/생산성", 유틸리티],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "사이트 주소를 등록해 사용하거나 웹 페이지에서 드래그하여 바로 사용할 수 있습니다.",
@@ -59,7 +59,7 @@
     {
       "uuid": "com.cookiedeck.multiaction",
       "name": "다중 기능 실행",
-      "category": "유틸리티",
+      "category": ["업무/생산성", 유틸리티],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "현재 설치된 플러그인 기능들을 한번에 실행할 수 있습니다.",
@@ -70,7 +70,7 @@
     {
       "uuid": "com.cookie.obs",
       "name": "OBS Studio",
-      "category": "스트리밍",
+      "category": ["스트리밍", 오디오/비디오],
       "type": "external",
       "author": "ElectroCookie",
       "description": "OBS 방송을 제어합니다. (단독 프로세스 실행)",
@@ -81,7 +81,7 @@
     {
       "uuid": "com.cookie.discord",
       "name": "디스코드 제어",
-      "category": "게이밍",
+      "category": ["게이밍", 소셜/커뮤니케이션],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "디스코드에서 제어할 수 있는 여러 기능들이 있습니다.",
@@ -92,7 +92,7 @@
     {
       "uuid": "com.cookie.scriptrunner",
       "name": "포토샵/일러스트 스크립트 실행기",
-      "category": "업무/생산성",
+      "category": ["업무/생산성"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "어도비 포토샵/일러스트에서 사용 가능한 스크립트를 등록하여 편하게 사용할 수 있습니다.",
@@ -103,7 +103,7 @@
     {
       "uuid": "com.cookie.virtualdesktop",
       "name": "윈도우 가상 데스크톱",
-      "category": "업무/생산성",
+      "category": ["업무/생산성", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "가상 데스크톱 기능을 사용해 작업, 게임 등 목적을 분리해서 사용해보세요.",
@@ -114,7 +114,7 @@
     {
       "uuid": "com.cookie.systemmonitor",
       "name": "시스템 모니터",
-      "category": "유틸리티",
+      "category": ["유틸리티"],
       "type": "external",
       "author": "ElectroCookie",
       "description": "CPU사용률, 네트워크 정보 등 다양한 시스템 정보를 볼 수 있습니다.",
@@ -136,7 +136,7 @@
     {
       "uuid": "com.cookie.windowmover",
       "name": "윈도우 창 조절 도구",
-      "category": "유틸리티",
+      "category": ["개발", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "윈도우 OS에서 창을 원하는 위치에 배치해보세요.",
@@ -147,7 +147,7 @@
     {
       "uuid": "com.cookie.audioswitcher",
       "name": "오디오 변경",
-      "category": "유틸리티",
+      "category": ["유틸리티", 오디오/비디오"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "컴퓨터에 연결된 여러개의 음향장치를 제어할 수 있습니다.",
