@@ -134,7 +134,7 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vscodedevtools.zip"
     },
     {
-      "uuid": "com.cookie.windowmove",
+      "uuid": "com.cookie.windowmover",
       "name": "윈도우 창 조절 도구",
       "category": "유틸리티",
       "type": "internal",
