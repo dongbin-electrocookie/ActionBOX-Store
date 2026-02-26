@@ -137,7 +137,7 @@
       "uuid": "com.cookie.windowmove",
       "name": "윈도우 창 조절 도구",
       "category": "유틸리티",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "description": "윈도우 OS에서 창을 원하는 위치에 배치해보세요.",
       "version": "1.0.0",
