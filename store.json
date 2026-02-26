@@ -51,7 +51,7 @@
       "category": "업무/생산성",
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "데스크톱마다 작업을 분리해서 사용해보세요",
+      "description": "가상 데스크톱 기능을 사용해 작업, 게임 등 목적을 분리해서 사용해보세요.",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.virtualdesktop.zip"
@@ -60,12 +60,45 @@
       "uuid": "com.cookie.systemmonitor.action",
       "name": "시스템 모니터",
       "category": "유틸리티",
-      "type": "internal",
+      "type": "external",
       "author": "ElectroCookie",
-      "description": "CPU사용률, 네트워크 정보 등을 볼 수 있습니다.",
+      "description": "CPU사용률, 네트워크 정보 등 다양한 시스템 정보를 볼 수 있습니다.",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.systemmonitor.action.zip"
     },
+    {
+      "uuid": "com.cookie.vscodedevtools",
+      "name": "VS CODE & git 보조도구",
+      "category": "유틸리티",
+      "type": "external",
+      "author": "ElectroCookie",
+      "description": "VS CODE와 git에서 자주 사용하는 명령어들이 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vscodedevtools.zip"
+    },
+    {
+      "uuid": "com.cookie.windowmove",
+      "name": "윈도우 창 조절 도구",
+      "category": "유틸리티",
+      "type": "external",
+      "author": "ElectroCookie",
+      "description": "윈도우 OS에서 창을 원하는 위치에 배치해보세요.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowmove.zip"
+    }, 
+    {
+      "uuid": "com.cookie.audioswitcher",
+      "name": "오디오 변경",
+      "category": "유틸리티",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "컴퓨터에 연결된 여러개의 음향장치를 제어할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.audioswitcher.zip"
+    },    
   ]
 }
