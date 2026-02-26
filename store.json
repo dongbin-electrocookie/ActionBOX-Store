@@ -19,7 +19,7 @@
       "type": "external",
       "author": "CookieDeck",
       "description": "OBS 방송을 제어합니다. (단독 프로세스 실행)",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/OBS_Studio_logo.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.obs.zip"
     }
