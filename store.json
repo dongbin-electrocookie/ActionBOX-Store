@@ -32,7 +32,7 @@
       "description": "디스코드에서 제어할 수 있는 여러 기능들이 있습니다.",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
-      "download_url": "https://github.com/dongbin-electrocookie/ActionBOX-Store/raw/refs/heads/main/plugins/com.cookie.discord.zip"
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.zip"
     },
     {
       "uuid": "com.cookie.scriptrunner",
@@ -88,7 +88,7 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/temp_icon.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowmove.zip"
-    }, 
+    },
     {
       "uuid": "com.cookie.audioswitcher",
       "name": "오디오 변경",
