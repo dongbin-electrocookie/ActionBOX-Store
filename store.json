@@ -112,7 +112,7 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.virtualdesktop.zip"
     },
     {
-      "uuid": "com.cookie.systemmonitor.action",
+      "uuid": "com.cookie.systemmonitor",
       "name": "시스템 모니터",
       "category": "유틸리티",
       "type": "external",
@@ -123,7 +123,7 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.systemmonitor.action.zip"
     },
     {
-      "uuid": "com.cookie.vscodedevtools",
+      "uuid": "com.cookie.devtools",
       "name": "VS CODE & git 보조도구",
       "category": "유틸리티",
       "type": "external",
