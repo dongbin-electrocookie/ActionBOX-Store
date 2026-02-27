@@ -172,7 +172,7 @@
       "category": ["소셜/커뮤니케이션", "업무/생산성"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "화상 회의 시 마이크와 카메라를 버튼 하나로 빠르게 켜고 끕니다. Zoom의 단축키가 프로그램이 최소화 되어있을때도 사용하려면 Zoom설정에서 "전역 바로가기 활성화(Enable Global Shortcut)"를 켜야합니다.",
+      "description": "화상 회의 시 마이크와 카메라를 버튼 하나로 빠르게 켜고 끕니다. Zoom의 단축키가 프로그램이 최소화 되어있을때도 사용하려면 Zoom설정에서 전역 바로가기 활성화(Enable Global Shortcut)"를 켜야합니다.",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.zoom.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.zoom.zip"
