@@ -319,6 +319,17 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.figma.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.figma.zip"
+    },
+    {
+      "uuid": "com.cookie.powerpoint",
+      "name": "Microsoft PowerPoint",
+      "category": ["업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "파워포인트 발표 시 슬라이드 이동, 레이저 포인터 켜기 등을 무선 프리젠터처럼 제어하고, 문서 작성 시 잦은 서식 복사와 그룹화 등을 단축키로 돕습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.powerpoint.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.powerpoint.zip"
     }
   ]
 }
