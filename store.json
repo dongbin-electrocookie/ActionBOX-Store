@@ -216,10 +216,21 @@
       "category": ["게이밍", "비디오/스트리밍"],
       "type": "external",
       "author": "ElectroCookie",
-      "description": "PRISM Live Studio의 WebSocket 서버(도구 메뉴)와 연결하여 방송, 장면, 소스를 완벽하게 제어합니다.",
+      "description": "PRISM Live Studio의 WebSocket과 연결하여 방송, 장면, 소스를 제어합니다.",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.prism.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.prism.zip"
+    },
+    {
+      "uuid": "com.cookie.xsplit",
+      "name": "XSplit Broadcaster",
+      "category": ["게이밍", "비디오/스트리밍"],
+      "type": "external",
+      "author": "ElectroCookie",
+      "description": "XSplit Broadcaster를 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.xsplit.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.xsplit.zip"
     }
   ]
 }
