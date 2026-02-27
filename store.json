@@ -330,6 +330,39 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.powerpoint.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.powerpoint.zip"
+    },
+    {
+      "uuid": "com.cookie.webhook",
+      "name": "Webhook",
+      "category": ["개발", "시스템", "스마트홈"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "HTTP 요청(GET, POST 등)을 전송하여 외부 API, 스마트홈 서버(Home Assistant 등)를 직접 제어하는 파워 유저용 플러그인입니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.webhook.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.webhook.zip"
+    },
+    {
+      "uuid": "com.cookie.ifttt",
+      "name": "IFTTT",
+      "category": ["스마트홈", "시스템"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "IFTTT Webhooks를 사용하여 스마트 조명, 플러그, 소셜 미디어 트윗 등 수많은 외부 기기와 자동화 서비스를 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ifttt.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ifttt.zip"
+    },
+    {
+      "uuid": "com.cookie.hue",
+      "name": "Philips Hue",
+      "category": ["스마트홈", "게이밍"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "로컬 네트워크를 통해 Philips Hue 브릿지와 직접 통신하여 딜레이 없이 스마트 조명을 켜고 끕니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hue.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hue.zip"
     }
   ]
 }
