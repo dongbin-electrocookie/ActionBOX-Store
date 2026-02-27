@@ -198,6 +198,17 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.teams.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.teams.zip"
+    },
+    {
+      "uuid": "com.cookie.discord.pro",
+      "name": "Discord Pro",
+      "category": ["게이밍", "소셜/커뮤니케이션"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "API를 이용한 디스코드 플러그인입니다. (※ API 기능은 Client ID 등록 필요)",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.pro.zip"
     }
   ]
 }
