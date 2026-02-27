@@ -231,6 +231,17 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.xsplit.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.xsplit.zip"
+    },
+    {
+      "uuid": "com.cookie.vmix",
+      "name": "vMix Control",
+      "category": ["게이밍", "비디오/스트리밍"],
+      "type": "external",
+      "author": "ElectroCookie",
+      "description": "vMix의 HTTP API를 활용하여 딜레이 없이 방송 화면, 미디어 소스, 오디오를 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vmix.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vmix.zip"
     }
   ]
 }
