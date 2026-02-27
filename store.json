@@ -257,7 +257,7 @@
     {
       "uuid": "com.cookie.photoshop",
       "name": "Adobe Photoshop",
-      "category": ["크리에이터/디자인, 업무/생산성, 개발"],
+      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "Photoshop의 주요 도구(브러시, 펜 등)와 편집 기능(자유 변형, 실행 취소 등)을 단축키로 빠르게 제어합니다.",
@@ -268,7 +268,7 @@
     {
       "uuid": "com.cookie.illustrator",
       "name": "Adobe Illustrator",
-      "category": ["크리에이터/디자인, 업무/생산성, 개발"],
+      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "Adobe Illustrator의 그리기 도구, 패스파인더, 마스크, 객체 정렬 기능들을 단축키로 빠르게 실행합니다.",
@@ -279,7 +279,7 @@
     {
       "uuid": "com.cookie.premiere",
       "name": "Adobe Premiere Pro",
-      "category": ["크리에이터/디자인, 업무/생산성, 개발"],
+      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "Premiere Pro의 타임라인 컷편집(자르기, 잔물결 삭제 등), 재생 제어, 도구 선택을 단축키로 빠르게 실행합니다.",
@@ -290,7 +290,7 @@
     {
       "uuid": "com.cookie.aftereffects",
       "name": "Adobe After Effects",
-      "category": ["크리에이터/디자인, 업무/생산성, 개발"],
+      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
       "type": "internal",
       "author": "ElectroCookie",
       "description": "After Effects의 키프레임, 타임라인 이동, 레이어 속성(P, S, R, T) 단축키로 빠르게 실행합니다.",
