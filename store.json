@@ -363,6 +363,28 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hue.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hue.zip"
+    },
+    {
+      "uuid": "com.cookie.windowsmedia",
+      "name": "Windows Media Controler",
+      "category": ["오디오/비디오"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "윈도우 미디어 플레이어와 브라우저에서 재생중인 미디어를 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.windowsmedia.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowsmedia.zip"
+    },
+        {
+      "uuid": "com.cookie.hwp",
+      "name": "한컴오피스 도우미",
+      "category": ["업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "한컴오피스에서 자주 사용하는 단축키들을 사용하여 빠르게 문서작업을 할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hwp.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hwp.zip"
     }
   ]
 }
