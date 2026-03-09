@@ -2,6 +2,160 @@
   "store_version": "1.0",
   "plugins": [
     {
+      "uuid": "com.cookie.ableton",
+      "name": "에이블톤 라이브 컨트롤러",
+      "category": ["업무/생산성", "DAW"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "에이블톤 라이브를 조작할 수 있는 여러 편의기능을 제공합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ableton.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ableton.zip"
+    },
+    {
+      "uuid": "com.cookie.aftereffects",
+      "name": "Adobe After Effects",
+      "category": ["크리에이터/디자인", "업무/생산성", "개발"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "After Effects의 키프레임, 타임라인 이동, 레이어 속성(P, S, R, T) 단축키로 빠르게 실행합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.aftereffects.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.aftereffects.zip"
+    },
+    {
+      "uuid": "com.cookie.appvolume",
+      "name": "App Volume Mixer",
+      "category": ["오디오/비디오", "유틸리티"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "현재 실행 중인 프로그램들을 검색하여, 앱별로 각각의 볼륨을 독립적으로 조절하거나 음소거할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.appvolume.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.appvolume.zip"
+    },
+    {
+      "uuid": "com.cookie.audioswitcher",
+      "name": "오디오 변경",
+      "category": ["유틸리티", "오디오/비디오"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "컴퓨터에 연결된 여러개의 음향장치를 제어할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.audioswitcher.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.audioswitcher.zip"
+    },
+    {
+      "uuid": "com.cookie.blender",
+      "name": "블랜더 컨트롤러",
+      "category": ["개발", "업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "블랜더에 여러가지 기능을 편하게 실행할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.blender.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.blender.zip"
+    },
+    {
+      "uuid": "com.cookie.clipboardmanager",
+      "name": "클립보드 매니저",
+      "category": ["업무/생산성", "유틸리티"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "클립보드에 저장된 내용을 확인하거나 자주 사용하는 내용을 적어 바로 확인할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.clipboardmanager.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipboardmanager.zip"
+    },
+    {
+      "uuid": "com.cookie.colorpicker",
+      "name": "컬러 픽커(색상 추출기)",
+      "category": ["업무/생산성", "유틸리티"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "마우스에 있는 색상을 추출하여 LCD에 표시해줍니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.colorpicker.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.colorpicker.zip"
+    },
+    {
+      "uuid": "com.cookie.companion",
+      "name": "비트 포커스 컴페니언 제어",
+      "category": ["업무/생산성", "유틸리티", "스트리밍", "시스템"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "비트 포커스 컴페니언을 제어할 때 사용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.companion.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.companion.zip"
+    },
+    {
+      "uuid": "com.cookie.crypto",
+      "name": "암호화폐, 코인 거래소 확인",
+      "category": ["유틸리티", "소셜/커뮤니케이션"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "비트코인, 이더리움 등 다양한 암호화폐를 등록하여 실시간으로 확인할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.crypto.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.crypto.zip"
+    },
+    {
+      "uuid": "com.cookie.cubase",
+      "name": "큐베이스 컨트롤러",
+      "category": ["업무/생산성", "DAW"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "큐베이스에 있는 다양한 기능을 쉽게 이용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.cubase.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.cubase.zip"
+    },
+    {
+      "uuid": "com.cookie.davinci",
+      "name": "DaVinci Resolve 컨트롤러",
+      "category": ["크리에이터/디자인", "비디오/스트리밍"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "DaVinci Resolve의 J/K/L 재생, 타임라인 컷편집(블레이드, 잔물결 삭제), 마커 기능을 단축키로 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.davinci.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.davinci.zip"
+    },
+    {
+      "uuid": "com.cookie.devops",
+      "name": "데브옵스 모니터링(Vercel, Netlify, Cloudflare, Railway, GitHub)",
+      "category": ["개발", "소셜/커뮤니케이션"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "Vercel, Netlify, Cloudflare, Railway, GitHub 상태를 통합 모니터링합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.devops.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.devops.zip"
+    },
+    {
+      "uuid": "com.cookie.discord.pro",
+      "name": "Discord Pro",
+      "category": ["게이밍", "소셜/커뮤니케이션"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "API를 이용한 디스코드 플러그인입니다. (※ API 기능은 Client ID 등록 필요)",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.pro.zip"
+    },
+    {
+      "uuid": "com.cookie.discord",
+      "name": "디스코드 제어",
+      "category": ["게이밍", "소셜/커뮤니케이션"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "디스코드에서 제어할 수 있는 여러 기능들이 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.zip"
+    },
+	{
       "uuid": "com.cookie.excel",
       "name": "엑셀 단축키",
       "category": ["업무/생산성"],
@@ -13,15 +167,114 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.excel.zip"
     },
     {
-      "uuid": "com.cookie.clipboardmanager",
-      "name": "클립보드 매니저",
-      "category": ["업무/생산성", "유틸리티"],
+      "uuid": "com.cookie.figma",
+      "name": "Figma",
+      "category": ["크리에이터/디자인", "업무/생산성"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "클립보드에 저장된 내용을 확인하거나 자주 사용하는 내용을 적어보세요",
+      "description": "Figma 디자인 작업의 핵심인 오토 레이아웃, 컴포넌트, 속성 복사/붙여넣기를 단축키로 실행합니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.clipboardmanager.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipboardmanager.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.figma.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.figma.zip"
+    },
+    {
+      "uuid": "com.cookie.flstudio",
+      "name": "FL스튜디오 컨트롤러",
+      "category": ["업무/생산성", "DAW"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "FL Studio의 단축키 또는 MIDI 제어 신호를 보냅니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.flstudio.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.flstudio.zip"
+    },
+    {
+      "uuid": "com.cookie.hue",
+      "name": "Philips Hue",
+      "category": ["스마트홈", "게이밍"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "로컬 네트워크를 통해 Philips Hue 브릿지와 직접 통신하여 딜레이 없이 스마트 조명을 켜고 끕니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hue.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hue.zip"
+    },
+    {
+      "uuid": "com.cookie.hwp",
+      "name": "한컴오피스 도우미",
+      "category": ["업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "한컴오피스에서 자주 사용하는 단축키들을 사용하여 빠르게 문서작업을 할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hwp.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hwp.zip"
+    },
+    {
+      "uuid": "com.cookie.ifttt",
+      "name": "IFTTT",
+      "category": ["스마트홈", "시스템"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "IFTTT Webhooks를 사용하여 스마트 조명, 플러그, 소셜 미디어 트윗 등 수많은 외부 기기와 자동화 서비스를 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ifttt.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ifttt.zip"
+    },
+    {
+      "uuid": "com.cookie.illustrator",
+      "name": "Adobe Illustrator",
+      "category": ["크리에이터/디자인", "업무/생산성", "개발"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "Adobe Illustrator의 그리기 도구, 패스파인더, 마스크, 객체 정렬 기능들을 단축키로 빠르게 실행합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.illustrator.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.illustrator.zip"
+    },
+    {
+      "uuid": "com.cookie.meet",
+      "name": "Google Meet 컨트롤러",
+      "category": ["소셜/커뮤니케이션", "업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "Google Meet 화상 회의에서 마이크와 카메라를 제어합니다. (※ 브라우저 창이 활성화되어 있어야 단축키가 작동합니다)",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.meet.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.meet.zip"
+    },
+    {
+      "uuid": "com.cookie.midi",
+      "name": "MIDI 신호 제어기",
+      "category": ["업무/생산성", "DAW"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "PC, CC 등 MIDI 값을 선택하여 전송할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.midi.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.midi.zip"
+    },
+    {
+      "uuid": "com.cookie.mouse",
+      "name": "마우스 제어",
+      "category": ["업무/생산성", "유틸리티", "시스템"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "더블클릭, 가로 휠, 뒤로 가기 등 마우스에서 자주 사용하는 기능을 등록할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.mouse.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.mouse.zip"
+    },
+    {
+      "uuid": "com.cookie.mousesimulator",
+      "name": "마우스 시뮬레이터",
+      "category": ["업무/생산성", "유틸리티", "시스템"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "마우스의 행동을 기록하고 바로 실행합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.mousesimulator.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.mousesimulator.zip"
     },
     {
       "uuid": "com.cookie.multimedia",
@@ -35,8 +288,85 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.multimedia.zip"
     },
     {
+      "uuid": "com.cookie.notion",
+      "name": "Notion 컨트롤러",
+      "category": ["소셜/커뮤니케이션", "업무/생산성", "개발"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "버튼을 눌러 원하는 내용을 바로 데이터베이스에 넣거나 자주 사용하는 기능을 빠르게 이용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.notion.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.notion.zip"
+    },
+    {
+      "uuid": "com.cookie.photoshop",
+      "name": "Adobe Photoshop",
+      "category": ["크리에이터/디자인", "업무/생산성", "개발"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "Photoshop의 주요 도구(브러시, 펜 등)와 편집 기능(자유 변형, 실행 취소 등)을 단축키로 빠르게 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.photoshop.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.photoshop.zip"
+    },
+    {
+      "uuid": "com.cookie.pomodoro",
+      "name": "뽀모도로 타이머",
+      "category": ["유틸리티", "업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "25분 설정 후 5분 동안 휴식 등 사용자의 집중력을 도와주는 타이머입니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.pomodoro.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.pomodoro.zip"
+    },
+    {
+      "uuid": "com.cookie.powerpoint",
+      "name": "Microsoft PowerPoint",
+      "category": ["업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "파워포인트 발표 시 슬라이드 이동, 레이저 포인터 켜기 등을 무선 프리젠터처럼 제어하고, 문서 작성 시 잦은 서식 복사와 그룹화 등을 단축키로 돕습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.powerpoint.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.powerpoint.zip"
+    },
+    {
+      "uuid": "com.cookie.premiere",
+      "name": "Adobe Premiere Pro",
+      "category": ["크리에이터/디자인", "업무/생산성", "개발"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "Premiere Pro의 타임라인 컷편집(자르기, 잔물결 삭제 등), 재생 제어, 도구 선택을 단축키로 빠르게 실행합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.premiere.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.premiere.zip"
+    },
+    {
+      "uuid": "com.cookie.protools",
+      "name": "Pro Tools 컨트롤러",
+      "category": ["업무/생산성", "DAW"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "Pro Tools에서 자주 사용하는 기능을 편하게 이용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.protools.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.protools.zip"
+    },
+    {
+      "uuid": "com.cookie.scriptrunner",
+      "name": "JSX 실행기(포토샵/일러스트 스크립트 실행기)",
+      "category": ["업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "어도비 포토샵/일러스트에서 사용 가능한 스크립트를 등록하여 편하게 사용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.scriptrunner.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.scriptrunner.zip"
+    },
+    {
       "uuid": "com.cookie.shortcuts",
-      "name": "바로가기 실행",
+      "name": "바로가기 실행(EXE, LNK, UWP, 단축키 등록, 텍스트 매크로)",
       "category": ["업무/생산성", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
@@ -46,59 +376,92 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.shortcuts.zip"
     },
     {
-      "uuid": "com.cookie.web",
-      "name": "웹 페이지 실행",
-      "category": ["업무/생산성", "유틸리티"],
+      "uuid": "com.cookie.slack",
+      "name": "Slack 컨트롤러",
+      "category": ["소셜/커뮤니케이션", "업무/생산성", "개발"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "사이트 주소를 등록해 사용하거나 웹 페이지에서 드래그하여 바로 사용할 수 있습니다.",
+      "description": "Slack에서 자주 사용하는 기능을 빠르게 이용할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.web.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.web.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.slack.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.slack.zip"
     },
     {
-      "uuid": "com.cookiedeck.multiaction",
-      "name": "다중 기능 실행",
-      "category": ["업무/생산성", "유틸리티"],
+      "uuid": "com.cookie.spotify",
+      "name": "스포티파이 API 컨트롤러",
+      "category": ["유틸리티", "오디오/비디오"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "현재 설치된 플러그인 기능들을 한번에 실행할 수 있습니다.",
+      "description": "스포티파이 API를 이용하여 어플리케이션을 제어합니다.(API발급 필수)",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookiedeck.multiaction.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookiedeck.multiaction.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.spotify.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.spotify.zip"
     },
     {
-      "uuid": "com.cookie.obs",
-      "name": "OBS Studio",
-      "category": ["스트리밍", "오디오/비디오"],
-      "type": "external",
-      "author": "ElectroCookie",
-      "description": "OBS 방송을 제어합니다. (단독 프로세스 실행)",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.obs.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.obs.zip"
-    },
-    {
-      "uuid": "com.cookie.discord",
-      "name": "디스코드 제어",
-      "category": ["게이밍", "소셜/커뮤니케이션"],
+      "uuid": "com.cookie.stock",
+      "name": "주식 정보 확인",
+      "category": ["유틸리티", "소셜/커뮤니케이션"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "디스코드에서 제어할 수 있는 여러 기능들이 있습니다.",
+      "description": "야후 파이낸스 정보를 받아와 주식정보를 표시합니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.stock.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.stock.zip"
     },
     {
-      "uuid": "com.cookie.scriptrunner",
-      "name": "포토샵/일러스트 스크립트 실행기",
-      "category": ["업무/생산성"],
+      "uuid": "com.cookie.stopwatch",
+      "name": "스톱워치",
+      "category": ["유틸리티", "업무/생산성"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "어도비 포토샵/일러스트에서 사용 가능한 스크립트를 등록하여 편하게 사용할 수 있습니다.",
+      "description": "기기 화면에 스톱워치를 실행할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.scriptrunner.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.scriptrunner.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.stopwatch.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.stopwatch.zip"
+    },
+	{
+      "uuid": "com.cookie.studioone",
+      "name": "펜더 스튜디오 프로 컨트롤러(스튜디오 원)",
+      "category": ["업무/생산성", "DAW"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "펜더 스튜디오를 편하게 제어할 수 있습니다.(스튜디오 원 호환)",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.studioone.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.studioone.zip"
+    },
+    {
+      "uuid": "com.cookie.teams",
+      "name": "Microsoft Teams 컨트롤러",
+      "category": ["소셜/커뮤니케이션", "업무/생산성"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "Microsoft Teams 화상 회의에서 마이크, 카메라, 배경 흐림 등을 제어합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.teams.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.teams.zip"
+    },
+    {
+      "uuid": "com.cookie.unity",
+      "name": "유니티 엔진 컨트롤러",
+      "category": ["크리에이터/디자인", "업무/생산성", "개발"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "유니티 엔진에서 자주 사용하는 기능들을 등록하여 사용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.unity.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.unity.zip"
+    },
+    {
+      "uuid": "com.cookie.unreal",
+      "name": "언리얼 엔진 컨트롤러",
+      "category": ["크리에이터/디자인", "업무/생산성", "개발"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "언리얼 엔진에서 자주 사용하는 기능들을 등록하여 사용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.unreal.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.unreal.zip"
     },
     {
       "uuid": "com.cookie.virtualdesktop",
@@ -112,26 +475,48 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.virtualdesktop.zip"
     },
     {
-      "uuid": "com.cookie.systemmonitor",
-      "name": "시스템 모니터",
+      "uuid": "com.cookie.voicetalker",
+      "name": "TTS 보이스토커",
       "category": ["유틸리티"],
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
-      "description": "CPU사용률, 네트워크 정보 등 다양한 시스템 정보를 볼 수 있습니다.",
+      "description": "사용자가 입력한 글을 Windows TTS엔진이 읽어줍니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.systemmonitor.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.systemmonitor.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.voicetalker.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.voicetalker.zip"
     },
     {
-      "uuid": "com.cookie.devtools",
-      "name": "VS CODE & git 보조도구",
-      "category": ["유틸리티", "개발"],
-      "type": "external",
+      "uuid": "com.cookie.weather",
+      "name": "날씨",
+      "category": ["유틸리티"],
+      "type": "internal",
       "author": "ElectroCookie",
-      "description": "VS CODE와 git에서 자주 사용하는 명령어들이 있습니다.",
+      "description": "지정한 도시의 날씨를 확인할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vscodedevtools.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vscodedevtools.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.weather.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.weather.zip"
+    },
+    {
+      "uuid": "com.cookie.web",
+      "name": "웹 페이지 실행",
+      "category": ["업무/생산성", "유틸리티"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "사이트 주소를 등록해 사용하거나 웹 페이지에서 드래그하여 바로 사용할 수 있습니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.web.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.web.zip"
+    },
+    {
+      "uuid": "com.cookie.webhook",
+      "name": "Webhook",
+      "category": ["개발", "시스템", "스마트홈"],
+      "type": "internal",
+      "author": "ElectroCookie",
+      "description": "HTTP 요청(GET, POST 등)을 전송하여 외부 API, 스마트홈 서버(Home Assistant 등)를 직접 제어하는 파워 유저용 플러그인입니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.webhook.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.webhook.zip"
     },
     {
       "uuid": "com.cookie.windowmover",
@@ -145,15 +530,15 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowmove.zip"
     },
     {
-      "uuid": "com.cookie.audioswitcher",
-      "name": "오디오 변경",
-      "category": ["유틸리티", "오디오/비디오"],
+      "uuid": "com.cookie.windowsmedia",
+      "name": "Windows Media Controler",
+      "category": ["오디오/비디오"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "컴퓨터에 연결된 여러개의 음향장치를 제어할 수 있습니다.",
+      "description": "윈도우 미디어 플레이어와 브라우저에서 재생중인 미디어를 제어합니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.audioswitcher.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.audioswitcher.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.windowsmedia.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowsmedia.zip"
     },
     {
       "uuid": "com.cookie.word",
@@ -178,37 +563,37 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.zoom.zip"
     },
     {
-      "uuid": "com.cookie.meet",
-      "name": "Google Meet 컨트롤러",
-      "category": ["소셜/커뮤니케이션", "업무/생산성"],
+      "uuid": "com.cookiedeck.multiaction",
+      "name": "다중 기능 실행",
+      "category": ["업무/생산성", "유틸리티"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "Google Meet 화상 회의에서 마이크와 카메라를 제어합니다. (※ 브라우저 창이 활성화되어 있어야 단축키가 작동합니다)",
+      "description": "현재 설치된 플러그인 기능들을 한번에 실행할 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.meet.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.meet.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookiedeck.multiaction.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookiedeck.multiaction.zip"
     },
     {
-      "uuid": "com.cookie.teams",
-      "name": "Microsoft Teams 컨트롤러",
-      "category": ["소셜/커뮤니케이션", "업무/생산성"],
+      "uuid": "com.cookie.github",
+      "name": "깃 허브 모니터링",
+      "category": ["개발", "소셜/커뮤니케이션"],
       "type": "internal",
       "author": "ElectroCookie",
-      "description": "Microsoft Teams 화상 회의에서 마이크, 카메라, 배경 흐림 등을 제어합니다.",
+      "description": "깃 허브에서 오는 알람, 잔디심기 등의 기능을 모니터링합니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.teams.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.teams.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.github.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.github.zip"
     },
     {
-      "uuid": "com.cookie.discord.pro",
-      "name": "Discord Pro",
-      "category": ["게이밍", "소셜/커뮤니케이션"],
-      "type": "internal",
+      "uuid": "com.cookie.obs",
+      "name": "OBS Studio",
+      "category": ["스트리밍", "오디오/비디오"],
+      "type": "external",
       "author": "ElectroCookie",
-      "description": "API를 이용한 디스코드 플러그인입니다. (※ API 기능은 Client ID 등록 필요)",
+      "description": "방송 시작, 녹화, 그린스크린 ON/OFF 등 OBS 방송을 제어합니다. ",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.pro.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.obs.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.obs.zip"
     },
     {
       "uuid": "com.cookie.prism",
@@ -222,15 +607,15 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.prism.zip"
     },
     {
-      "uuid": "com.cookie.xsplit",
-      "name": "XSplit Broadcaster",
-      "category": ["게이밍", "비디오/스트리밍"],
+      "uuid": "com.cookie.systemmonitor",
+      "name": "시스템 모니터",
+      "category": ["유틸리티"],
       "type": "external",
       "author": "ElectroCookie",
-      "description": "XSplit Broadcaster를 제어합니다.",
+      "description": "CPU사용률, 네트워크 정보 등 다양한 시스템 정보를 볼 수 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.xsplit.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.xsplit.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.systemmonitor.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.systemmonitor.zip"
     },
     {
       "uuid": "com.cookie.vmix",
@@ -244,147 +629,37 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vmix.zip"
     },
     {
-      "uuid": "com.cookie.appvolume",
-      "name": "App Volume Mixer",
-      "category": ["오디오/비디오", "유틸리티"],
-      "type": "internal",
+      "uuid": "com.cookie.vscodedevtools",
+      "name": "VS CODE & git 보조도구",
+      "category": ["유틸리티", "개발"],
+      "type": "external",
       "author": "ElectroCookie",
-      "description": "현재 실행 중인 프로그램들을 검색하여, 앱별로 각각의 볼륨을 독립적으로 조절하거나 음소거할 수 있습니다.",
+      "description": "VS CODE와 git에서 자주 사용하는 명령어들이 있습니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.appvolume.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.appvolume.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vscodedevtools.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vscodedevtools.zip"
     },
     {
-      "uuid": "com.cookie.photoshop",
-      "name": "Adobe Photoshop",
-      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
-      "type": "internal",
+      "uuid": "com.cookie.vtubestudio",
+      "name": "VtubeStudio Controller",
+      "category": ["게이밍", "비디오/스트리밍"],
+      "type": "external",
       "author": "ElectroCookie",
-      "description": "Photoshop의 주요 도구(브러시, 펜 등)와 편집 기능(자유 변형, 실행 취소 등)을 단축키로 빠르게 제어합니다.",
+      "description": "VtubeStudio의 기능들을 제어할 수 있습니다.(모바일 기기와 같은 네트워크에 있어야 합니다.)",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.photoshop.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.photoshop.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vtubestudio.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vtubestudio.zip"
     },
     {
-      "uuid": "com.cookie.illustrator",
-      "name": "Adobe Illustrator",
-      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
-      "type": "internal",
+      "uuid": "com.cookie.xsplit",
+      "name": "XSplit Broadcaster",
+      "category": ["게이밍", "비디오/스트리밍"],
+      "type": "external",
       "author": "ElectroCookie",
-      "description": "Adobe Illustrator의 그리기 도구, 패스파인더, 마스크, 객체 정렬 기능들을 단축키로 빠르게 실행합니다.",
+      "description": "XSplit Broadcaster를 제어합니다.",
       "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.illustrator.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.illustrator.zip"
-    },
-    {
-      "uuid": "com.cookie.premiere",
-      "name": "Adobe Premiere Pro",
-      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "Premiere Pro의 타임라인 컷편집(자르기, 잔물결 삭제 등), 재생 제어, 도구 선택을 단축키로 빠르게 실행합니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.premiere.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.premiere.zip"
-    },
-    {
-      "uuid": "com.cookie.aftereffects",
-      "name": "Adobe After Effects",
-      "category": ["크리에이터/디자인", "업무/생산성, 개발"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "After Effects의 키프레임, 타임라인 이동, 레이어 속성(P, S, R, T) 단축키로 빠르게 실행합니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.aftereffects.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.aftereffects.zip"
-    },
-    {
-      "uuid": "com.cookie.davinci",
-      "name": "DaVinci Resolve",
-      "category": ["크리에이터/디자인", "비디오/스트리밍"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "DaVinci Resolve의 J/K/L 재생, 타임라인 컷편집(블레이드, 잔물결 삭제), 마커 기능을 단축키로 제어합니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.davinci.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.davinci.zip"
-    },
-    {
-      "uuid": "com.cookie.figma",
-      "name": "Figma",
-      "category": ["크리에이터/디자인", "업무/생산성"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "Figma 디자인 작업의 핵심인 오토 레이아웃, 컴포넌트, 속성 복사/붙여넣기를 단축키로 실행합니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.figma.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.figma.zip"
-    },
-    {
-      "uuid": "com.cookie.powerpoint",
-      "name": "Microsoft PowerPoint",
-      "category": ["업무/생산성"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "파워포인트 발표 시 슬라이드 이동, 레이저 포인터 켜기 등을 무선 프리젠터처럼 제어하고, 문서 작성 시 잦은 서식 복사와 그룹화 등을 단축키로 돕습니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.powerpoint.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.powerpoint.zip"
-    },
-    {
-      "uuid": "com.cookie.webhook",
-      "name": "Webhook",
-      "category": ["개발", "시스템", "스마트홈"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "HTTP 요청(GET, POST 등)을 전송하여 외부 API, 스마트홈 서버(Home Assistant 등)를 직접 제어하는 파워 유저용 플러그인입니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.webhook.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.webhook.zip"
-    },
-    {
-      "uuid": "com.cookie.ifttt",
-      "name": "IFTTT",
-      "category": ["스마트홈", "시스템"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "IFTTT Webhooks를 사용하여 스마트 조명, 플러그, 소셜 미디어 트윗 등 수많은 외부 기기와 자동화 서비스를 제어합니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ifttt.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ifttt.zip"
-    },
-    {
-      "uuid": "com.cookie.hue",
-      "name": "Philips Hue",
-      "category": ["스마트홈", "게이밍"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "로컬 네트워크를 통해 Philips Hue 브릿지와 직접 통신하여 딜레이 없이 스마트 조명을 켜고 끕니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hue.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hue.zip"
-    },
-    {
-      "uuid": "com.cookie.windowsmedia",
-      "name": "Windows Media Controler",
-      "category": ["오디오/비디오"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "윈도우 미디어 플레이어와 브라우저에서 재생중인 미디어를 제어합니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.windowsmedia.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowsmedia.zip"
-    },
-        {
-      "uuid": "com.cookie.hwp",
-      "name": "한컴오피스 도우미",
-      "category": ["업무/생산성"],
-      "type": "internal",
-      "author": "ElectroCookie",
-      "description": "한컴오피스에서 자주 사용하는 단축키들을 사용하여 빠르게 문서작업을 할 수 있습니다.",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hwp.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hwp.zip"
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.xsplit.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.xsplit.zip"
     }
   ]
 }
