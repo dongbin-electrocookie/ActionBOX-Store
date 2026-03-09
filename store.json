@@ -649,7 +649,7 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vtubestudio.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vtubestudio.zip"
-    },
+    ,
     {
       "uuid": "com.cookie.xsplit",
       "name": "XSplit Broadcaster",
@@ -660,6 +660,17 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.xsplit.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.xsplit.zip"
+    },
+    {
+      "uuid": "com.cookie.random",
+      "name": "랜덤 숫자 생성기",
+      "category": ["게이밍", "비디오/스트리밍"],
+      "type": "external",
+      "author": "ElectroCookie",
+      "description": "1~6주사위, 동전 던지기, 러시안 룰렛, 마법의 소라고둥 등 다양한 선택지를 제공합니다.",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.random.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.random.zip"
     }
   ]
 }
