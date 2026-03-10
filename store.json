@@ -52,7 +52,7 @@
       "type": "internal",
       "author": "ElectroCookie",
       "description": "블랜더에 여러가지 기능을 편하게 실행할 수 있습니다.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.blender.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.blender.zip"
     },
