@@ -678,7 +678,7 @@
       "category": ["스트리밍", "오디오/비디오", "게이밍"],
       "type": "external",
       "author": "ElectroCookie",
-      "description": "특톡 라이브 스튜디오를 제어합니다.",
+      "description": "틱톡 라이브 스튜디오를 제어합니다.",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.tiktok.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.tiktok.zip"
