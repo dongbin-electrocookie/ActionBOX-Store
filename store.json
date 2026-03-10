@@ -124,7 +124,7 @@
     },
     {
       "uuid": "com.cookie.devops",
-      "name": "데브옵스 모니터링(Vercel, Netlify, Cloudflare, Railway, GitHub)",
+      "name": "데브옵스 모니터링",
       "category": ["개발", "소셜/커뮤니케이션"],
       "type": "internal",
       "author": "ElectroCookie",
