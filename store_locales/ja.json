@@ -261,7 +261,7 @@
       "DAW"
     ]
   },
-  "com.cookie.scriptrunner": {
+  "com.cookie.adobe.script_runner": {
     "name": "JSX実行機 (Adobeスクリプト実行機)",
     "description": "Adobe Photoshop / Illustratorで使えるスクリプトを登録して手軽に実行できます。",
     "category": [
