@@ -1,0 +1,506 @@
+{
+  "com.cookie.ableton": {
+    "name": "Ableton Liveコントローラー",
+    "description": "Ableton Liveを便利に操作できる機能を提供します。",
+    "category": [
+      "仕事/生産性",
+      "DAW"
+    ]
+  },
+  "com.cookie.aftereffects": {
+    "name": "Adobe After Effects",
+    "description": "After Effectsのキーフレーム、タイムライン移動、レイヤープロパティ (P, S, R, T) のショートカットをすばやく実行します。",
+    "category": [
+      "クリエイター/デザイン",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.appvolume": {
+    "name": "アプリ音量ミキサー",
+    "description": "実行中のプログラムを検索し、アプリごとの音量を個別に調整またはミュートできます。",
+    "category": [
+      "オーディオ/ビデオ",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.audioswitcher": {
+    "name": "オーディオ切り替え",
+    "description": "コンピューターに接続された複数の音響デバイスを制御できます。",
+    "category": [
+      "ユーティリティ",
+      "オーディオ/ビデオ"
+    ]
+  },
+  "com.cookie.blender": {
+    "name": "Blenderコントローラー",
+    "description": "Blenderのさまざまな機能を手軽に実行できます。",
+    "category": [
+      "開発",
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.clipboardmanager": {
+    "name": "クリップボードマネージャー",
+    "description": "クリップボードの内容を確認したり、よく使う内容を保存してすぐに呼び出せます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.colorpicker": {
+    "name": "カラーピッカー",
+    "description": "画面上の色を取得してLCDに表示します。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.companion": {
+    "name": "Bitfocus Companion制御",
+    "description": "Bitfocus Companionを制御する際に使用できます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ",
+      "ストリーミング",
+      "システム"
+    ]
+  },
+  "com.cookie.crypto": {
+    "name": "暗号資産トラッカー",
+    "description": "BitcoinやEthereumなど、さまざまな暗号資産を登録してリアルタイムで確認できます。",
+    "category": [
+      "ユーティリティ",
+      "ソーシャル/コミュニケーション"
+    ]
+  },
+  "com.cookie.cubase": {
+    "name": "Cubaseコントローラー",
+    "description": "Cubaseのさまざまな機能を簡単に利用できます。",
+    "category": [
+      "仕事/生産性",
+      "DAW"
+    ]
+  },
+  "com.cookie.davinci": {
+    "name": "DaVinci Resolveコントローラー",
+    "description": "DaVinci ResolveのJ/K/L再生、タイムラインのカット編集 (ブレード、リップル削除) 、マーカー機能をショートカットで制御します。",
+    "category": [
+      "クリエイター/デザイン",
+      "ビデオ/ストリーミング"
+    ]
+  },
+  "com.cookie.devops": {
+    "name": "DevOpsモニタリング",
+    "description": "Vercel、Netlify、Cloudflare、Railway、GitHubの状態をまとめて監視します。",
+    "category": [
+      "開発",
+      "ソーシャル/コミュニケーション"
+    ]
+  },
+  "com.cookie.discord.pro": {
+    "name": "Discord Pro",
+    "description": "APIを利用したDiscordプラグインです。 (※ API機能の利用にはClient ID登録が必要です。)",
+    "category": [
+      "ゲーミング",
+      "ソーシャル/コミュニケーション"
+    ]
+  },
+  "com.cookie.discord": {
+    "name": "Discord制御",
+    "description": "Discordで使えるさまざまな機能を提供します。",
+    "category": [
+      "ゲーミング",
+      "ソーシャル/コミュニケーション"
+    ]
+  },
+  "com.cookie.excel": {
+    "name": "Excelショートカット",
+    "description": "Excelでよく使うショートカットを収録しています。",
+    "category": [
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.figma": {
+    "name": "Figma",
+    "description": "Figmaの主要機能であるAuto Layout、コンポーネント、プロパティのコピー/貼り付けをショートカットで実行します。",
+    "category": [
+      "クリエイター/デザイン",
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.flstudio": {
+    "name": "FL Studioコントローラー",
+    "description": "FL StudioのショートカットやMIDI制御信号を送信します。",
+    "category": [
+      "仕事/生産性",
+      "DAW"
+    ]
+  },
+  "com.cookie.hue": {
+    "name": "Philips Hue",
+    "description": "ローカルネットワーク経由でPhilips Hueブリッジと直接通信し、遅延なくスマート照明をオン/オフできます。",
+    "category": [
+      "スマートホーム",
+      "ゲーミング"
+    ]
+  },
+  "com.cookie.hwp": {
+    "name": "Hancom Officeヘルパー",
+    "description": "Hancom Officeでよく使うショートカットを利用して文書作業を素早く行えます。",
+    "category": [
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.ifttt": {
+    "name": "IFTTT",
+    "description": "IFTTT Webhooksを使って、スマート照明、プラグ、SNS投稿など多数の外部デバイスや自動化サービスを制御します。",
+    "category": [
+      "スマートホーム",
+      "システム"
+    ]
+  },
+  "com.cookie.illustrator": {
+    "name": "Adobe Illustrator",
+    "description": "Adobe Illustratorの描画ツール、パスファインダー、マスク、オブジェクト整列機能をショートカットですばやく実行します。",
+    "category": [
+      "クリエイター/デザイン",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.meet": {
+    "name": "Google Meetコントローラー",
+    "description": "Google Meetの会議でマイクとカメラを制御します。 (※ ショートカットを動作させるにはブラウザウィンドウがアクティブである必要があります。)",
+    "category": [
+      "ソーシャル/コミュニケーション",
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.midi": {
+    "name": "MIDI信号コントローラー",
+    "description": "PCやCCなどのMIDI値を選択して送信できます。",
+    "category": [
+      "仕事/生産性",
+      "DAW"
+    ]
+  },
+  "com.cookie.mouse": {
+    "name": "マウス制御",
+    "description": "ダブルクリック、横スクロール、戻るなど、よく使うマウス機能を登録できます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ",
+      "システム"
+    ]
+  },
+  "com.cookie.mousesimulator": {
+    "name": "マウスシミュレーター",
+    "description": "マウスの動きを記録してすぐに再生できます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ",
+      "システム"
+    ]
+  },
+  "com.cookie.multimedia": {
+    "name": "マルチメディア制御",
+    "description": "PCの音量調整やミュート、動画再生などのマルチメディア機能を実行します。",
+    "category": [
+      "ユーティリティ",
+      "オーディオ/ビデオ"
+    ]
+  },
+  "com.cookie.notion": {
+    "name": "Notionコントローラー",
+    "description": "ボタンを押して必要な内容をすぐにデータベースへ追加したり、よく使うNotion機能をすばやく利用できます。",
+    "category": [
+      "ソーシャル/コミュニケーション",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.photoshop": {
+    "name": "Adobe Photoshop",
+    "description": "Photoshopの主要ツール (ブラシ、ペンなど) と編集機能 (自由変形、取り消しなど) をショートカットですばやく制御します。",
+    "category": [
+      "クリエイター/デザイン",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.pomodoro": {
+    "name": "ポモドーロタイマー",
+    "description": "25分作業して5分休憩するなど、集中を助けるタイマーです。",
+    "category": [
+      "ユーティリティ",
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.powerpoint": {
+    "name": "Microsoft PowerPoint",
+    "description": "PowerPointの発表時にスライド移動やレーザーポインターを操作し、文書作成時にはよく使う書式コピーやグループ化をショートカットで支援します。",
+    "category": [
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.premiere": {
+    "name": "Adobe Premiere Pro",
+    "description": "Premiere Proのタイムライン編集 (カット、リップル削除など) 、再生制御、ツール選択をショートカットですばやく実行します。",
+    "category": [
+      "クリエイター/デザイン",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.protools": {
+    "name": "Pro Toolsコントローラー",
+    "description": "Pro Toolsでよく使う機能を手軽に利用できます。",
+    "category": [
+      "仕事/生産性",
+      "DAW"
+    ]
+  },
+  "com.cookie.scriptrunner": {
+    "name": "JSX実行機 (Adobeスクリプト実行機)",
+    "description": "Adobe Photoshop / Illustratorで使えるスクリプトを登録して手軽に実行できます。",
+    "category": [
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.shortcuts": {
+    "name": "ショートカット実行",
+    "description": "ファイルやフォルダ、よく使う単語、ショートカットなどを登録できます。 (EXE、LNK、UWP、ショートカット登録、テキストマクロ)",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.slack": {
+    "name": "Slackコントローラー",
+    "description": "Slackでよく使う機能をすばやく利用できます。",
+    "category": [
+      "ソーシャル/コミュニケーション",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.spotify": {
+    "name": "Spotify APIコントローラー",
+    "description": "Spotify APIを使ってアプリケーションを制御します。 (API発行必須)",
+    "category": [
+      "ユーティリティ",
+      "オーディオ/ビデオ"
+    ]
+  },
+  "com.cookie.stock": {
+    "name": "株価情報",
+    "description": "Yahoo Financeの情報を取得して株価情報を表示します。",
+    "category": [
+      "ユーティリティ",
+      "ソーシャル/コミュニケーション"
+    ]
+  },
+  "com.cookie.stopwatch": {
+    "name": "ストップウォッチ",
+    "description": "デバイス画面でストップウォッチを実行できます。",
+    "category": [
+      "ユーティリティ",
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.studioone": {
+    "name": "Fender Studio Proコントローラー (Studio One)",
+    "description": "Fender Studioを手軽に制御できます。 (Studio One互換)",
+    "category": [
+      "仕事/生産性",
+      "DAW"
+    ]
+  },
+  "com.cookie.teams": {
+    "name": "Microsoft Teamsコントローラー",
+    "description": "Microsoft Teamsの会議でマイク、カメラ、背景ぼかしなどを制御します。",
+    "category": [
+      "ソーシャル/コミュニケーション",
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.unity": {
+    "name": "Unity Engineコントローラー",
+    "description": "Unity engineでよく使う機能を登録して利用できます。",
+    "category": [
+      "クリエイター/デザイン",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.unreal": {
+    "name": "Unreal Engineコントローラー",
+    "description": "Unreal Engineでよく使う機能を登録して利用できます。",
+    "category": [
+      "クリエイター/デザイン",
+      "仕事/生産性",
+      "開発"
+    ]
+  },
+  "com.cookie.virtualdesktop": {
+    "name": "Windows仮想デスクトップ",
+    "description": "仮想デスクトップを使って、仕事やゲームなど用途ごとに環境を分けて使えます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.voicetalker": {
+    "name": "TTSボイストーカー",
+    "description": "ユーザーが入力した文章をWindows TTSエンジンで読み上げます。",
+    "category": [
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.weather": {
+    "name": "天気",
+    "description": "指定した都市の天気を確認できます。",
+    "category": [
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.web": {
+    "name": "Webページ実行",
+    "description": "サイトのURLを登録したり、Webページからドラッグしてすぐに使えます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.webhook": {
+    "name": "Webhook",
+    "description": "HTTPリクエスト (GET、POSTなど) を送信して、外部APIやHome Assistantなどのスマートホームサーバーを直接制御するパワーユーザー向けプラグインです。",
+    "category": [
+      "開発",
+      "システム",
+      "スマートホーム"
+    ]
+  },
+  "com.cookie.windowmover": {
+    "name": "ウィンドウ配置ツール",
+    "description": "Windows OSでウィンドウを好きな位置に配置できます。",
+    "category": [
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.windowsmedia": {
+    "name": "Windows Media Controller",
+    "description": "Windows Media Playerやブラウザで再生中のメディアを制御します。",
+    "category": [
+      "オーディオ/ビデオ"
+    ]
+  },
+  "com.cookie.word": {
+    "name": "MS Wordヘルパー",
+    "description": "Wordでよく使う書式や機能をワンクリックで実行します。",
+    "category": [
+      "仕事/生産性"
+    ]
+  },
+  "com.cookie.zoom": {
+    "name": "Zoomコントローラー",
+    "description": "ビデオ会議中にマイクとカメラをボタンひとつですばやく切り替えられます。 Zoomが最小化されているときでもショートカットを使うには、Zoom設定で 'Enable Global Shortcut' を有効にしてください。",
+    "category": [
+      "ソーシャル/コミュニケーション",
+      "仕事/生産性"
+    ]
+  },
+  "com.cookiedeck.multiaction": {
+    "name": "複数機能実行",
+    "description": "現在インストールされているプラグイン機能をまとめて一度に実行できます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.github": {
+    "name": "GitHubモニタリング",
+    "description": "GitHubの通知や草 (contribution) 活動などをモニタリングします。",
+    "category": [
+      "開発",
+      "ソーシャル/コミュニケーション"
+    ]
+  },
+  "com.cookie.obs": {
+    "name": "OBS Studio",
+    "description": "配信開始、録画、グリーンスクリーンのON/OFFなど、OBSの配信機能を制御します。",
+    "category": [
+      "ストリーミング",
+      "オーディオ/ビデオ",
+      "ゲーミング"
+    ]
+  },
+  "com.cookie.prism": {
+    "name": "PRISM Live Studio",
+    "description": "PRISM Live StudioのWebSocketに接続して、配信、シーン、ソースを制御します。",
+    "category": [
+      "ストリーミング",
+      "オーディオ/ビデオ",
+      "ゲーミング"
+    ]
+  },
+  "com.cookie.systemmonitor": {
+    "name": "システムモニター",
+    "description": "CPU使用率やネットワーク情報など、さまざまなシステム情報を確認できます。",
+    "category": [
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.vmix": {
+    "name": "vMix Control",
+    "description": "vMixのHTTP APIを活用して、遅延なく配信画面、メディアソース、オーディオを制御します。",
+    "category": [
+      "ストリーミング",
+      "オーディオ/ビデオ",
+      "ゲーミング"
+    ]
+  },
+  "com.cookie.vscodedevtools": {
+    "name": "VS Code & Git補助ツール",
+    "description": "VS CodeとGitでよく使うコマンドを収録しています。",
+    "category": [
+      "ユーティリティ",
+      "開発"
+    ]
+  },
+  "com.cookie.vtubestudio": {
+    "name": "VTube Studioコントローラー",
+    "description": "VTube Studioの機能を制御できます。 (モバイル端末と同じネットワーク上にある必要があります。)",
+    "category": [
+      "ストリーミング",
+      "オーディオ/ビデオ",
+      "ゲーミング"
+    ]
+  },
+  "com.cookie.xsplit": {
+    "name": "XSplit Broadcaster",
+    "description": "XSplit Broadcasterを制御します。",
+    "category": [
+      "ストリーミング",
+      "オーディオ/ビデオ",
+      "ゲーミング"
+    ]
+  },
+  "com.cookie.random": {
+    "name": "ランダム数字生成器",
+    "description": "1〜6のサイコロ、コイントス、ロシアンルーレット、マジックコンクなど、さまざまなランダム選択肢を提供します。",
+    "category": [
+      "ゲーミング"
+    ]
+  },
+  "com.cookie.tiktok": {
+    "name": "TikTok Live Studio",
+    "description": "TikTok Live Studioを制御します。",
+    "category": [
+      "ストリーミング",
+      "オーディオ/ビデオ",
+      "ゲーミング"
+    ]
+  }
+}
