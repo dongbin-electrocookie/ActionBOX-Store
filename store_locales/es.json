@@ -261,7 +261,7 @@
       "DAW"
     ]
   },
-  "com.cookie.scriptrunner": {
+  "com.cookie.adobe.script_runner": {
     "name": "JSX Runner (Adobe Script Runner)",
     "description": "Registra y ejecuta scripts para Adobe Photoshop e Illustrator con facilidad.",
     "category": [
