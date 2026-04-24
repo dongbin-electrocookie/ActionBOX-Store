@@ -261,7 +261,7 @@
       "DAW"
     ]
   },
-  "com.cookie.scriptrunner": {
+  "com.cookie.adobe.script_runner": {
     "name": "JSX 실행기(Adobe 스크립트 실행기)",
     "description": "어도비 포토샵/일러스트에서 사용 가능한 스크립트를 등록하여 편하게 사용할 수 있습니다.",
     "category": [
