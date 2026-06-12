@@ -543,5 +543,21 @@
       "Audio/Video",
       "Gaming"
     ]
+  },
+  "com.cookie.hpdisplayquicksettings": {
+    "name": "Impostazioni rapide display HP",
+    "description": "Controlla rapidamente le impostazioni display supportate e disponi le finestre con layout personalizzabili.",
+    "category": [
+      "Utility",
+      "System"
+    ]
+  },
+  "com.cookie.clipstudio": {
+    "name": "Clip Studio Paint",
+    "description": "Controlla gli strumenti e le funzioni di modifica più usati di Clip Studio Paint tramite scorciatoie.",
+    "category": [
+      "Creator/Design",
+      "Business/Productivity"
+    ]
   }
 }

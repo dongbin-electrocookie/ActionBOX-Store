@@ -543,5 +543,21 @@
       "オーディオ/ビデオ",
       "ゲーミング"
     ]
+  },
+  "com.cookie.hpdisplayquicksettings": {
+    "name": "HP ディスプレイクイック設定",
+    "description": "対応するディスプレイ設定をすばやく操作し、カスタムレイアウトでウィンドウを配置します。",
+    "category": [
+      "ユーティリティ",
+      "システム"
+    ]
+  },
+  "com.cookie.clipstudio": {
+    "name": "CLIP STUDIO PAINT",
+    "description": "よく使うCLIP STUDIO PAINTのツールと編集機能をショートカットで操作します。",
+    "category": [
+      "クリエイター/デザイン",
+      "ビジネス/生産性"
+    ]
   }
 }

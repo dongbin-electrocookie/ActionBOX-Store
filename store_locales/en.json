@@ -543,5 +543,21 @@
       "Audio/Video",
       "Gaming"
     ]
+  },
+  "com.cookie.hpdisplayquicksettings": {
+    "name": "HP Display Quick Settings",
+    "description": "Quickly control supported display settings and arrange windows with customizable layouts.",
+    "category": [
+      "Utility",
+      "System"
+    ]
+  },
+  "com.cookie.clipstudio": {
+    "name": "Clip Studio Paint",
+    "description": "Control frequently used Clip Studio Paint tools and editing functions with shortcuts.",
+    "category": [
+      "Creator/Design",
+      "Business/Productivity"
+    ]
   }
 }
