@@ -536,6 +536,22 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.tiktok.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.tiktok.zip"
+    },
+    {
+      "uuid": "com.cookie.hpdisplayquicksettings",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hpdisplayquicksettings.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hpdisplayquicksettings.zip"
+    },
+    {
+      "uuid": "com.cookie.clipstudio",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.clipstudio.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipstudio.zip"
     }
   ]
 }
