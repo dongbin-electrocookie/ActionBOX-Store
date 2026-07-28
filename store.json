@@ -141,7 +141,7 @@
       "uuid": "com.cookie.gmail",
       "type": "internal",
       "author": "ElectroCookie",
-      "version": "0.1.0-test",
+      "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.gmail.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.gmail.zip"
     },
@@ -229,7 +229,7 @@
       "uuid": "com.cookie.mousesimulator",
       "type": "internal",
       "author": "ElectroCookie",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.mousesimulator.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.mousesimulator.zip"
     },
@@ -469,7 +469,7 @@
       "uuid": "com.cookie.obs",
       "type": "external",
       "author": "ElectroCookie",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.obs.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.obs.zip"
     },
@@ -477,7 +477,7 @@
       "uuid": "com.cookie.prism",
       "type": "external",
       "author": "ElectroCookie",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.prism.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.prism.zip"
     },
