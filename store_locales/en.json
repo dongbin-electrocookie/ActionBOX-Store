@@ -236,7 +236,7 @@
     ]
   },
   "com.cookie.multimedia": {
-    "name": "Multimedia Control",
+    "name": "Media & Volume",
     "description": "Perform multimedia actions such as muting, volume control, and video playback.",
     "category": [
       "Utility",
@@ -558,6 +558,29 @@
     "category": [
       "Creator/Design",
       "Business/Productivity"
+    ]
+  },
+  "com.cookie.ai_capture": {
+    "name": "AI Link",
+    "description": "Create reusable AI shortcuts with preset prompts. Select a task, choose your AI, and send the prompt with a single click.",
+    "category": [
+      "Business/Productivity",
+      "Utility"
+    ]
+  },
+  "com.cookie.launch": {
+    "name": "Launch",
+    "description": "Open applications, websites, files, and folders.",
+    "category": [
+      "Business/Productivity",
+      "Utility"
+    ]
+  },
+  "com.cookie.screenshot": {
+    "name": "Screenshot",
+    "description": "Capture and annotate the full desktop, active window, or a selected area.",
+    "category": [
+      "Utility"
     ]
   }
 }

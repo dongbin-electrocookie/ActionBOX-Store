@@ -236,7 +236,7 @@
     ]
   },
   "com.cookie.multimedia": {
-    "name": "Control multimedia",
+    "name": "Multimedia y volumen",
     "description": "Realiza acciones multimedia como silenciar, controlar el volumen y reproducir vídeo.",
     "category": [
       "Utilidad",
@@ -558,6 +558,29 @@
     "category": [
       "Creator/Design",
       "Business/Productivity"
+    ]
+  },
+  "com.cookie.ai_capture": {
+    "name": "AI Link",
+    "description": "Crea accesos directos de IA reutilizables con prompts predefinidos. Elige una tarea y una IA y envía el prompt con un solo clic.",
+    "category": [
+      "Negocios/Productividad",
+      "Utilidad"
+    ]
+  },
+  "com.cookie.launch": {
+    "name": "Launch",
+    "description": "Abre aplicaciones, sitios web, archivos y carpetas.",
+    "category": [
+      "Negocios/Productividad",
+      "Utilidad"
+    ]
+  },
+  "com.cookie.screenshot": {
+    "name": "Captura de pantalla",
+    "description": "Captura y anota el escritorio completo, la ventana activa o un área seleccionada.",
+    "category": [
+      "Utilidad"
     ]
   }
 }

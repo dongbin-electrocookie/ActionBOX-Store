@@ -236,7 +236,7 @@
     ]
   },
   "com.cookie.multimedia": {
-    "name": "Controllo multimediale",
+    "name": "Media e volume",
     "description": "Esegue azioni multimediali come disattivazione audio, controllo volume e riproduzione video.",
     "category": [
       "Utilità",
@@ -558,6 +558,29 @@
     "category": [
       "Creator/Design",
       "Business/Productivity"
+    ]
+  },
+  "com.cookie.ai_capture": {
+    "name": "AI Link",
+    "description": "Crea scorciatoie AI riutilizzabili con prompt predefiniti. Scegli un'attività e un'AI e invia il prompt con un solo clic.",
+    "category": [
+      "Business/Produttività",
+      "Utilità"
+    ]
+  },
+  "com.cookie.launch": {
+    "name": "Launch",
+    "description": "Apre applicazioni, siti web, file e cartelle.",
+    "category": [
+      "Business/Produttività",
+      "Utilità"
+    ]
+  },
+  "com.cookie.screenshot": {
+    "name": "Screenshot",
+    "description": "Cattura e annota l’intero desktop, la finestra attiva o un’area selezionata.",
+    "category": [
+      "Utilità"
     ]
   }
 }

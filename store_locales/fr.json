@@ -236,7 +236,7 @@
     ]
   },
   "com.cookie.multimedia": {
-    "name": "Contrôle multimédia",
+    "name": "Médias et volume",
     "description": "Effectue des actions multimédia comme couper le son, régler le volume et lancer la lecture vidéo.",
     "category": [
       "Utilitaire",
@@ -558,6 +558,29 @@
     "category": [
       "Creator/Design",
       "Business/Productivity"
+    ]
+  },
+  "com.cookie.ai_capture": {
+    "name": "AI Link",
+    "description": "Créez des raccourcis IA réutilisables avec des prompts prédéfinis. Choisissez une tâche et une IA, puis envoyez le prompt en un clic.",
+    "category": [
+      "Travail/Productivité",
+      "Utilitaire"
+    ]
+  },
+  "com.cookie.launch": {
+    "name": "Launch",
+    "description": "Ouvre des applications, des sites web, des fichiers et des dossiers.",
+    "category": [
+      "Travail/Productivité",
+      "Utilitaire"
+    ]
+  },
+  "com.cookie.screenshot": {
+    "name": "Capture d’écran",
+    "description": "Capturez et annotez le bureau entier, la fenêtre active ou une zone sélectionnée.",
+    "category": [
+      "Utilitaire"
     ]
   }
 }

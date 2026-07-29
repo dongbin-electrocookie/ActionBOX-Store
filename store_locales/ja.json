@@ -236,7 +236,7 @@
     ]
   },
   "com.cookie.multimedia": {
-    "name": "マルチメディア制御",
+    "name": "メディアと音量",
     "description": "PCの音量調整やミュート、動画再生などのマルチメディア機能を実行します。",
     "category": [
       "ユーティリティ",
@@ -558,6 +558,29 @@
     "category": [
       "クリエイター/デザイン",
       "ビジネス/生産性"
+    ]
+  },
+  "com.cookie.ai_capture": {
+    "name": "AI Link",
+    "description": "プリセットプロンプトで再利用可能なAIショートカットを作成します。タスクとAIを選択し、ワンクリックでプロンプトを送信できます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.launch": {
+    "name": "Launch",
+    "description": "アプリ、Webサイト、ファイル、フォルダーを開きます。",
+    "category": [
+      "仕事/生産性",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.screenshot": {
+    "name": "スクリーンショット",
+    "description": "全画面、アクティブウィンドウ、または選択範囲をキャプチャして編集します。",
+    "category": [
+      "ユーティリティ"
     ]
   }
 }

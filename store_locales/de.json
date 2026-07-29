@@ -236,7 +236,7 @@
     ]
   },
   "com.cookie.multimedia": {
-    "name": "Multimedia-Steuerung",
+    "name": "Medien & Lautstärke",
     "description": "Führt Multimedia-Aktionen wie Stummschalten, Lautstärkeregelung und Videowiedergabe aus.",
     "category": [
       "Dienstprogramme",
@@ -558,6 +558,29 @@
     "category": [
       "Creator/Design",
       "Business/Productivity"
+    ]
+  },
+  "com.cookie.ai_capture": {
+    "name": "AI Link",
+    "description": "Erstellen Sie wiederverwendbare KI-Shortcuts mit voreingestellten Prompts. Aufgabe und KI auswählen und den Prompt mit einem Klick senden.",
+    "category": [
+      "Business/Produktivität",
+      "Dienstprogramme"
+    ]
+  },
+  "com.cookie.launch": {
+    "name": "Launch",
+    "description": "Öffnet Anwendungen, Websites, Dateien und Ordner.",
+    "category": [
+      "Business/Produktivität",
+      "Dienstprogramme"
+    ]
+  },
+  "com.cookie.screenshot": {
+    "name": "Screenshot",
+    "description": "Gesamten Desktop, aktives Fenster oder einen ausgewählten Bereich aufnehmen und bearbeiten.",
+    "category": [
+      "Dienstprogramme"
     ]
   }
 }
