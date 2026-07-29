@@ -149,7 +149,7 @@
       "uuid": "com.cookie.googlecalendar",
       "type": "internal",
       "author": "ElectroCookie",
-      "version": "0.1.0-test",
+      "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.googlecalendar.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.googlecalendar.zip"
     },
@@ -197,7 +197,7 @@
       "uuid": "com.cookie.linksummary",
       "type": "internal",
       "author": "ElectroCookie",
-      "version": "0.1.0-test",
+      "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.linksummary.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.linksummary.zip"
     },
@@ -552,6 +552,30 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.clipstudio.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipstudio.zip"
+    },
+    {
+      "uuid": "com.cookie.ai_capture",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ai_capture.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ai_capture.zip"
+    },
+    {
+      "uuid": "com.cookie.launch",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.launch.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.launch.zip"
+    },
+    {
+      "uuid": "com.cookie.screenshot",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.screenshot.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.screenshot.zip"
     }
   ]
 }
