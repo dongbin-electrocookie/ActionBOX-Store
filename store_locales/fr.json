@@ -137,22 +137,6 @@
       "DAW"
     ]
   },
-  "com.cookie.gmail": {
-    "name": "Gmail",
-    "description": "Affiche les compteurs Gmail, ouvre les recherches, compose des mails et montre des briefings IA.",
-    "category": [
-      "Travail/Productivité",
-      "Social/Communication"
-    ]
-  },
-  "com.cookie.googlecalendar": {
-    "name": "Google Agenda",
-    "description": "Affiche les événements Google Agenda, liens de réunion, comptes à rebours, compte du jour et horloge.",
-    "category": [
-      "Travail/Productivité",
-      "Utilitaire"
-    ]
-  },
   "com.cookie.homeassistant": {
     "name": "Assistant domotique",
     "description": "Appelle des services Home Assistant comme lumières, interrupteurs, scènes, volets, lecteurs multimédias et scripts.",
