@@ -138,22 +138,6 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.flstudio.zip"
     },
     {
-      "uuid": "com.cookie.gmail",
-      "type": "internal",
-      "author": "ElectroCookie",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.gmail.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.gmail.zip"
-    },
-    {
-      "uuid": "com.cookie.googlecalendar",
-      "type": "internal",
-      "author": "ElectroCookie",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.googlecalendar.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.googlecalendar.zip"
-    },
-    {
       "uuid": "com.cookie.homeassistant",
       "type": "internal",
       "author": "ElectroCookie",
