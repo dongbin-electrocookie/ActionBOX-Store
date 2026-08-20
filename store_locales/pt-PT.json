@@ -137,22 +137,6 @@
       "DAW"
     ]
   },
-  "com.cookie.gmail": {
-    "name": "Gmail",
-    "description": "Mostra contagens do Gmail, abre pesquisas, compõe emails e apresenta briefings de IA.",
-    "category": [
-      "Negócios/Produtividade",
-      "Social/Comunicação"
-    ]
-  },
-  "com.cookie.googlecalendar": {
-    "name": "Calendário Google",
-    "description": "Mostra eventos do Calendário Google, ligações de reunião, contagens decrescentes, total do dia e relógio.",
-    "category": [
-      "Negócios/Produtividade",
-      "Utilitário"
-    ]
-  },
   "com.cookie.homeassistant": {
     "name": "Assistente doméstico",
     "description": "Chama serviços do Home Assistant para luzes, interruptores, cenas, estores, media players e scripts.",
