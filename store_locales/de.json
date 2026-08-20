@@ -137,22 +137,6 @@
       "DAW"
     ]
   },
-  "com.cookie.gmail": {
-    "name": "Gmail",
-    "description": "Zeigt Gmail-Zähler, öffnet Suchen, erstellt E-Mails und zeigt KI-Briefings an.",
-    "category": [
-      "Business/Produktivität",
-      "Soziales/Kommunikation"
-    ]
-  },
-  "com.cookie.googlecalendar": {
-    "name": "Google Kalender",
-    "description": "Zeigt Google-Kalender-Termine, Meeting-Links, Countdowns, Tagesanzahl und Uhr an.",
-    "category": [
-      "Business/Produktivität",
-      "Dienstprogramme"
-    ]
-  },
   "com.cookie.homeassistant": {
     "name": "Heimassistent",
     "description": "Ruft Home-Assistant-Dienste für Lichter, Schalter, Szenen, Cover, Media-Player und Skripte auf.",
