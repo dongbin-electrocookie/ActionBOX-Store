@@ -137,22 +137,6 @@
       "DAW"
     ]
   },
-  "com.cookie.gmail": {
-    "name": "Gmail",
-    "description": "Show Gmail unread or search counts, open searches, compose mail, and display AI briefings.",
-    "category": [
-      "Business/Productivity",
-      "Social/Communication"
-    ]
-  },
-  "com.cookie.googlecalendar": {
-    "name": "Google Calendar",
-    "description": "Show upcoming Google Calendar events, meeting links, countdowns, today counts, and clock displays.",
-    "category": [
-      "Business/Productivity",
-      "Utility"
-    ]
-  },
   "com.cookie.homeassistant": {
     "name": "Home Assistant",
     "description": "Call Home Assistant services for lights, switches, scenes, covers, media players, and scripts.",
