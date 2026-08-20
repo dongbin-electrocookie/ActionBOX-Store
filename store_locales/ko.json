@@ -137,22 +137,6 @@
       "DAW"
     ]
   },
-  "com.cookie.gmail": {
-    "name": "Gmail",
-    "description": "Gmail의 읽지 않은 메일/검색 개수, 검색 열기, 메일 작성, AI 브리핑을 표시합니다.",
-    "category": [
-      "업무/생산성",
-      "소셜/커뮤니케이션"
-    ]
-  },
-  "com.cookie.googlecalendar": {
-    "name": "구글 캘린더",
-    "description": "구글 캘린더의 다음 일정, 회의 링크, 카운트다운, 오늘 일정 수, 시계를 표시합니다.",
-    "category": [
-      "업무/생산성",
-      "유틸리티"
-    ]
-  },
   "com.cookie.homeassistant": {
     "name": "홈 어시스턴트",
     "description": "조명, 스위치, 장면, 커버, 미디어 플레이어, 스크립트 같은 Home Assistant 서비스를 호출합니다.",
