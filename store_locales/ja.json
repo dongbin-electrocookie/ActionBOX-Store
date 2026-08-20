@@ -137,22 +137,6 @@
       "DAW"
     ]
   },
-  "com.cookie.gmail": {
-    "name": "Gmail",
-    "description": "Gmail の未読数や検索件数、検索表示、メール作成、AI ブリーフィングを扱います。",
-    "category": [
-      "仕事/生産性",
-      "ソーシャル/コミュニケーション"
-    ]
-  },
-  "com.cookie.googlecalendar": {
-    "name": "Google カレンダー",
-    "description": "Google カレンダーの予定、会議リンク、カウントダウン、今日の件数、時計を表示します。",
-    "category": [
-      "仕事/生産性",
-      "ユーティリティ"
-    ]
-  },
   "com.cookie.homeassistant": {
     "name": "ホームアシスタント",
     "description": "ライト、スイッチ、シーン、カバー、メディアプレーヤー、スクリプトなどを Home Assistant で呼び出します。",
