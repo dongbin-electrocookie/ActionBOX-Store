@@ -339,7 +339,7 @@
     },
     {
       "uuid": "com.cookie.twitch",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.twitch.png",
@@ -384,14 +384,6 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.weather.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.weather.zip"
-    },
-    {
-      "uuid": "com.cookie.web",
-      "type": "internal",
-      "author": "ElectroCookie",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.web.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.web.zip"
     },
     {
       "uuid": "com.cookie.webhook",
@@ -443,7 +435,7 @@
     },
     {
       "uuid": "com.cookie.github",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.github.png",
@@ -451,7 +443,7 @@
     },
     {
       "uuid": "com.cookie.obs",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.obs.png",
@@ -459,7 +451,7 @@
     },
     {
       "uuid": "com.cookie.prism",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.prism.png",
@@ -467,7 +459,7 @@
     },
     {
       "uuid": "com.cookie.systemmonitor",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.systemmonitor.png",
@@ -475,7 +467,7 @@
     },
     {
       "uuid": "com.cookie.vmix",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vmix.png",
@@ -483,7 +475,7 @@
     },
     {
       "uuid": "com.cookie.vscodedevtools",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vscodedevtools.png",
@@ -491,7 +483,7 @@
     },
     {
       "uuid": "com.cookie.vtubestudio",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vtubestudio.png",
@@ -499,7 +491,7 @@
     },
     {
       "uuid": "com.cookie.xsplit",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.xsplit.png",
@@ -515,7 +507,7 @@
     },
     {
       "uuid": "com.cookie.tiktok",
-      "type": "external",
+      "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.tiktok.png",
@@ -544,6 +536,22 @@
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ai_capture.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ai_capture.zip"
+    },
+    {
+      "uuid": "com.cookie.codex",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.codex.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.codex.zip"
+    },
+    {
+      "uuid": "com.cookie.claude_code",
+      "type": "internal",
+      "author": "ElectroCookie",
+      "version": "1.0.0",
+      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.claude_code.png",
+      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.claude_code.zip"
     },
     {
       "uuid": "com.cookie.launch",
