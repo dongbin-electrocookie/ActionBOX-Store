@@ -552,6 +552,24 @@
       "Utilità"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Monitora lo stato delle sessioni Codex, controlla la dettatura vocale e il livello di ragionamento e approva o rifiuta le richieste da COMBO-X.",
+    "category": [
+      "Business/Produttività",
+      "Sviluppo",
+      "Utilità"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Monitora lo stato delle sessioni Claude Code, controlla la dettatura vocale e approva o rifiuta le richieste da COMBO-X.",
+    "category": [
+      "Business/Produttività",
+      "Sviluppo",
+      "Utilità"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Apre applicazioni, siti web, file e cartelle.",

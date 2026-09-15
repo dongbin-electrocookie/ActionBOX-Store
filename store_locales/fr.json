@@ -552,6 +552,24 @@
       "Utilitaire"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Surveillez l’état des sessions Codex, contrôlez la dictée vocale et le niveau de raisonnement, puis approuvez ou refusez les demandes depuis COMBO-X.",
+    "category": [
+      "Travail/Productivité",
+      "Développement",
+      "Utilitaire"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Surveillez l’état des sessions Claude Code, contrôlez la dictée vocale, puis approuvez ou refusez les demandes depuis COMBO-X.",
+    "category": [
+      "Travail/Productivité",
+      "Développement",
+      "Utilitaire"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Ouvre des applications, des sites web, des fichiers et des dossiers.",

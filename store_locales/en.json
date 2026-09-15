@@ -552,6 +552,24 @@
       "Utility"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Monitor Codex session status, control voice dictation and reasoning effort, and approve or reject requests from COMBO-X.",
+    "category": [
+      "Business/Productivity",
+      "Development",
+      "Utility"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Monitor Claude Code session status, control voice dictation, and approve or reject requests from COMBO-X.",
+    "category": [
+      "Business/Productivity",
+      "Development",
+      "Utility"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Open applications, websites, files, and folders.",

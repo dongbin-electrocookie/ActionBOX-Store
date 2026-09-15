@@ -552,6 +552,24 @@
       "Dienstprogramme"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Überwachen Sie den Codex-Sitzungsstatus, steuern Sie Spracheingabe und Schlussfolgerungsstufe und senden Sie Genehmigen oder Ablehnen über COMBO-X.",
+    "category": [
+      "Business/Produktivität",
+      "Entwicklung",
+      "Dienstprogramme"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Überwachen Sie den Sitzungsstatus von Claude Code, steuern Sie die Spracheingabe und senden Sie Genehmigen oder Ablehnen über COMBO-X.",
+    "category": [
+      "Business/Produktivität",
+      "Entwicklung",
+      "Dienstprogramme"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Öffnet Anwendungen, Websites, Dateien und Ordner.",

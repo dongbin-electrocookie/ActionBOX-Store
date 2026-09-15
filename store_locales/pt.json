@@ -552,6 +552,24 @@
       "Utilitário"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Monitore o estado das sessões do Codex, controle o ditado por voz e o nível de raciocínio e aprove ou rejeite solicitações pelo COMBO-X.",
+    "category": [
+      "Negócios/Produtividade",
+      "Desenvolvimento",
+      "Utilitário"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Monitore o estado das sessões do Claude Code, controle o ditado por voz e aprove ou rejeite solicitações pelo COMBO-X.",
+    "category": [
+      "Negócios/Produtividade",
+      "Desenvolvimento",
+      "Utilitário"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Abre aplicativos, sites, arquivos e pastas.",

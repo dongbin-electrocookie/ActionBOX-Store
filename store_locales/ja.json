@@ -552,6 +552,24 @@
       "ユーティリティ"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Codexのセッション状態を監視し、音声入力と推論レベルを調整して、COMBO-Xから承認または拒否を送信します。",
+    "category": [
+      "仕事/生産性",
+      "開発",
+      "ユーティリティ"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Claude Codeのセッション状態を監視し、音声入力を制御して、COMBO-Xから承認または拒否を送信します。",
+    "category": [
+      "仕事/生産性",
+      "開発",
+      "ユーティリティ"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "アプリ、Webサイト、ファイル、フォルダーを開きます。",

@@ -552,6 +552,24 @@
       "유틸리티"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Codex 세션 상태를 모니터링하고 음성 받아쓰기와 추론 강도를 조절하며 COMBO-X에서 승인 또는 거부를 전송합니다.",
+    "category": [
+      "업무/생산성",
+      "개발",
+      "유틸리티"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Claude Code 세션 상태를 모니터링하고 음성 받아쓰기를 제어하며 COMBO-X에서 승인 또는 거부를 전송합니다.",
+    "category": [
+      "업무/생산성",
+      "개발",
+      "유틸리티"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "앱, 웹사이트, 파일 및 폴더를 엽니다.",

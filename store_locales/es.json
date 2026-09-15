@@ -552,6 +552,24 @@
       "Utilidad"
     ]
   },
+  "com.cookie.codex": {
+    "name": "Codex",
+    "description": "Supervisa el estado de las sesiones de Codex, controla el dictado por voz y el nivel de razonamiento, y aprueba o rechaza solicitudes desde COMBO-X.",
+    "category": [
+      "Negocios/Productividad",
+      "Desarrollo",
+      "Utilidad"
+    ]
+  },
+  "com.cookie.claude_code": {
+    "name": "Claude Code",
+    "description": "Supervisa el estado de las sesiones de Claude Code, controla el dictado por voz y aprueba o rechaza solicitudes desde COMBO-X.",
+    "category": [
+      "Negocios/Productividad",
+      "Desarrollo",
+      "Utilidad"
+    ]
+  },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Abre aplicaciones, sitios web, archivos y carpetas.",
