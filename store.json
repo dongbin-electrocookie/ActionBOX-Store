@@ -178,14 +178,6 @@
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.illustrator.zip"
     },
     {
-      "uuid": "com.cookie.linksummary",
-      "type": "internal",
-      "author": "ElectroCookie",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.linksummary.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.linksummary.zip"
-    },
-    {
       "uuid": "com.cookie.meet",
       "type": "internal",
       "author": "ElectroCookie",
