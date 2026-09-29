@@ -185,14 +185,6 @@
       "Dienstprogramme"
     ]
   },
-  "com.cookie.meet": {
-    "name": "Google Meet-Controller",
-    "description": "Steuert Mikrofon und Kamera in Google-Meet-Anrufen. Das Browserfenster muss dafür aktiv sein.",
-    "category": [
-      "Soziales/Kommunikation",
-      "Business/Produktivität"
-    ]
-  },
   "com.cookie.midi": {
     "name": "MIDI-Signal-Controller",
     "description": "Wählt MIDI-Werte wie PC und CC aus und sendet sie.",
