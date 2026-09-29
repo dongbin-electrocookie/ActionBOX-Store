@@ -177,14 +177,6 @@
       "Développement"
     ]
   },
-  "com.cookie.linksummary": {
-    "name": "Résumé de lien IA",
-    "description": "Résume des vidéos YouTube et des articles web avec l’API Gemini.",
-    "category": [
-      "Travail/Productivité",
-      "Utilitaire"
-    ]
-  },
   "com.cookie.meet": {
     "name": "Google Meet Controller",
     "description": "Contrôle le micro et la caméra dans Google Meet. La fenêtre du navigateur doit être active.",
