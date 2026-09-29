@@ -177,14 +177,6 @@
       "Разработка"
     ]
   },
-  "com.cookie.linksummary": {
-    "name": "AI-сводка ссылок",
-    "description": "Кратко пересказывает видео YouTube и веб-статьи с помощью Gemini API.",
-    "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
-    ]
-  },
   "com.cookie.meet": {
     "name": "Google Meet Controller",
     "description": "Управляет микрофоном и камерой в Google Meet. Для работы окно браузера должно быть активным.",
