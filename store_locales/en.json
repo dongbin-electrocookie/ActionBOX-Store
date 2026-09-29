@@ -177,14 +177,6 @@
       "Development"
     ]
   },
-  "com.cookie.linksummary": {
-    "name": "AI Link Summarizer",
-    "description": "Summarize YouTube videos and web articles with Gemini API.",
-    "category": [
-      "Business/Productivity",
-      "Utility"
-    ]
-  },
   "com.cookie.midi": {
     "name": "MIDI Signal Controller",
     "description": "Select and send MIDI values such as PC and CC.",
