@@ -185,14 +185,6 @@
       "Utility"
     ]
   },
-  "com.cookie.meet": {
-    "name": "Google Meet Controller",
-    "description": "Control the microphone and camera in Google Meet calls. (The browser window must be active for shortcuts to work.)",
-    "category": [
-      "Social/Communication",
-      "Business/Productivity"
-    ]
-  },
   "com.cookie.midi": {
     "name": "MIDI Signal Controller",
     "description": "Select and send MIDI values such as PC and CC.",
