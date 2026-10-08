@@ -1,121 +1,104 @@
 {
   "com.cookie.ableton": {
-    "name": "Ableton Live Controller",
+    "name": "Ableton Live",
     "description": "Fournit des commandes pratiques pour Ableton Live.",
     "category": [
-      "Travail/Productivité",
-      "DAW"
+      "Audio/DAW"
     ]
   },
   "com.cookie.aftereffects": {
     "name": "Adobe After Effects",
     "description": "Exécute rapidement les raccourcis After Effects pour les images clés, la navigation dans la timeline et les propriétés de calque.",
     "category": [
-      "Création/Design",
-      "Travail/Productivité",
-      "Développement"
+      "Création/Design"
     ]
   },
   "com.cookie.appvolume": {
-    "name": "App Volume Mixer",
+    "name": "Mixeur de volume des applications",
     "description": "Recherche les programmes en cours et règle ou coupe séparément le volume de chaque application.",
     "category": [
-      "Audio/Vidéo",
-      "Utilitaire"
+      "Audio/DAW"
     ]
   },
   "com.cookie.audioswitcher": {
     "name": "Commutateur audio",
     "description": "Contrôle plusieurs périphériques audio connectés à l’ordinateur.",
     "category": [
-      "Utilitaire",
-      "Audio/Vidéo"
+      "Audio/DAW"
     ]
   },
   "com.cookie.blender": {
-    "name": "Blender Controller",
+    "name": "Blender",
     "description": "Permet d’accéder facilement à diverses fonctions de Blender.",
     "category": [
-      "Développement",
-      "Travail/Productivité"
+      "Création/Design"
     ]
   },
   "com.cookie.clipboardmanager": {
-    "name": "Gestionnaire du presse-papiers",
+    "name": "Presse-papiers & extraits",
     "description": "Affiche le contenu du presse-papiers ou enregistre du texte fréquent pour un accès rapide.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire"
+      "Travail/Productivité"
     ]
   },
   "com.cookie.colorpicker": {
-    "name": "Pipette couleur",
+    "name": "Sélecteur de couleur",
     "description": "Prélève les couleurs de l’écran et les affiche sur l’écran LCD.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire"
+      "Travail/Productivité"
     ]
   },
   "com.cookie.companion": {
-    "name": "Contrôle Bitfocus Companion",
+    "name": "Bitfocus Companion",
     "description": "Utilisez ce plugin pour contrôler Bitfocus Companion.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire",
-      "Streaming",
-      "Système"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.crypto": {
-    "name": "Suivi crypto",
+    "name": "Moniteur crypto",
     "description": "Enregistrez des cryptomonnaies comme le Bitcoin et l’Ethereum et suivez-les en temps réel.",
     "category": [
-      "Utilitaire",
-      "Social/Communication"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.cubase": {
-    "name": "Cubase Controller",
+    "name": "Cubase",
     "description": "Permet d’utiliser facilement diverses fonctions de Cubase.",
     "category": [
-      "Travail/Productivité",
-      "DAW"
+      "Audio/DAW"
     ]
   },
   "com.cookie.davinci": {
-    "name": "DaVinci Resolve Controller",
+    "name": "DaVinci Resolve",
     "description": "Contrôle la lecture J/K/L, les outils de coupe de la timeline et les marqueurs dans DaVinci Resolve via des raccourcis.",
     "category": [
-      "Création/Design",
-      "Vidéo/Streaming"
+      "Création/Design"
     ]
   },
   "com.cookie.devops": {
-    "name": "DevOps Monitoring",
+    "name": "Boîte à outils DevOps",
     "description": "Surveille l’état de Vercel, Netlify, Cloudflare, Railway et GitHub au même endroit.",
     "category": [
-      "Développement",
-      "Social/Communication"
+      "Développement"
     ]
   },
   "com.cookie.discord.pro": {
-    "name": "Discord Pro",
+    "name": "Discord API",
     "description": "Plugin Discord utilisant l’API. L’enregistrement d’un Client ID est requis pour les fonctions API.",
     "category": [
-      "Gaming",
       "Social/Communication"
     ]
   },
   "com.cookie.discord": {
-    "name": "Contrôle Discord",
+    "name": "Discord",
     "description": "Fournit différentes commandes pour Discord.",
     "category": [
-      "Gaming",
       "Social/Communication"
     ]
   },
   "com.cookie.excel": {
-    "name": "Raccourcis Excel",
+    "name": "MS Excel",
     "description": "Inclut des raccourcis Excel fréquemment utilisés.",
     "category": [
       "Travail/Productivité"
@@ -125,36 +108,32 @@
     "name": "Figma",
     "description": "Exécute les actions clés de Figma comme Auto Layout, les composants et le copier/coller des propriétés avec des raccourcis.",
     "category": [
-      "Création/Design",
-      "Travail/Productivité"
+      "Création/Design"
     ]
   },
   "com.cookie.flstudio": {
-    "name": "FL Studio Controller",
+    "name": "FL Studio",
     "description": "Envoie des raccourcis FL Studio ou des signaux de contrôle MIDI.",
     "category": [
-      "Travail/Productivité",
-      "DAW"
+      "Audio/DAW"
     ]
   },
   "com.cookie.homeassistant": {
     "name": "Assistant domotique",
     "description": "Appelle des services Home Assistant comme lumières, interrupteurs, scènes, volets, lecteurs multimédias et scripts.",
     "category": [
-      "Maison connectée",
-      "Utilitaire"
+      "Maison connectée"
     ]
   },
   "com.cookie.hue": {
     "name": "Philips Hue",
     "description": "Communique directement avec un pont Philips Hue sur le réseau local pour allumer et éteindre les lumières avec un délai minimal.",
     "category": [
-      "Maison connectée",
-      "Gaming"
+      "Maison connectée"
     ]
   },
   "com.cookie.hwp": {
-    "name": "Assistant Hancom Office",
+    "name": "Hancom Office",
     "description": "Accélère le travail sur les documents avec des raccourcis Hancom Office fréquemment utilisés.",
     "category": [
       "Travail/Productivité"
@@ -164,89 +143,74 @@
     "name": "IFTTT",
     "description": "Contrôle de nombreux appareils et services d’automatisation comme les lumières, prises et réseaux sociaux via IFTTT Webhooks.",
     "category": [
-      "Maison connectée",
-      "Système"
+      "Maison connectée"
     ]
   },
   "com.cookie.illustrator": {
     "name": "Adobe Illustrator",
     "description": "Exécute rapidement les outils de dessin, Pathfinder, masques et fonctions d’alignement d’objets d’Adobe Illustrator avec des raccourcis.",
     "category": [
-      "Création/Design",
-      "Travail/Productivité",
-      "Développement"
+      "Création/Design"
     ]
   },
   "com.cookie.meet": {
-    "name": "Google Meet Controller",
+    "name": "Google Meet",
     "description": "Contrôle le micro et la caméra dans Google Meet. La fenêtre du navigateur doit être active.",
     "category": [
-      "Social/Communication",
       "Travail/Productivité"
     ]
   },
   "com.cookie.midi": {
-    "name": "Contrôleur de signaux MIDI",
+    "name": "MIDI",
     "description": "Sélectionne et envoie des valeurs MIDI comme PC et CC.",
     "category": [
-      "Travail/Productivité",
-      "DAW"
+      "Audio/DAW"
     ]
   },
   "com.cookie.mouse": {
-    "name": "Contrôle de la souris",
+    "name": "Contrôleur de souris",
     "description": "Attribue des fonctions de souris fréquentes comme le double-clic, la molette horizontale et le retour arrière.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire",
-      "Système"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.mousesimulator": {
     "name": "Simulateur de souris",
     "description": "Enregistre les actions de souris et les rejoue instantanément.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire",
-      "Système"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.multimedia": {
     "name": "Médias et volume",
     "description": "Effectue des actions multimédia comme couper le son, régler le volume et lancer la lecture vidéo.",
     "category": [
-      "Utilitaire",
-      "Audio/Vidéo"
+      "Audio/DAW"
     ]
   },
   "com.cookie.notion": {
-    "name": "Notion Controller",
+    "name": "Notion",
     "description": "Appuyez sur un bouton pour insérer immédiatement des données dans une base de données ou accéder rapidement aux fonctions courantes de Notion.",
     "category": [
-      "Social/Communication",
-      "Travail/Productivité",
-      "Développement"
+      "Travail/Productivité"
     ]
   },
   "com.cookie.photoshop": {
     "name": "Adobe Photoshop",
     "description": "Contrôle rapidement les principaux outils et fonctions d’édition de Photoshop avec des raccourcis.",
     "category": [
-      "Création/Design",
-      "Travail/Productivité",
-      "Développement"
+      "Création/Design"
     ]
   },
   "com.cookie.pomodoro": {
     "name": "Minuteur Pomodoro",
     "description": "Un minuteur qui aide à se concentrer avec des cycles comme 25 minutes de travail suivies de 5 minutes de pause.",
     "category": [
-      "Utilitaire",
       "Travail/Productivité"
     ]
   },
   "com.cookie.powerpoint": {
-    "name": "Microsoft PowerPoint",
+    "name": "MS PowerPoint",
     "description": "Contrôle la navigation du diaporama, le pointeur laser et les actions fréquentes de mise en forme/groupement dans PowerPoint.",
     "category": [
       "Travail/Productivité"
@@ -256,130 +220,112 @@
     "name": "Adobe Premiere Pro",
     "description": "Exécute rapidement l’édition de timeline, les commandes de lecture et la sélection d’outils dans Premiere Pro.",
     "category": [
-      "Création/Design",
-      "Travail/Productivité",
-      "Développement"
+      "Création/Design"
     ]
   },
   "com.cookie.protools": {
-    "name": "Pro Tools Controller",
+    "name": "Pro Tools",
     "description": "Permet d’accéder facilement aux fonctions fréquentes de Pro Tools.",
     "category": [
-      "Travail/Productivité",
-      "DAW"
+      "Audio/DAW"
     ]
   },
   "com.cookie.adobe.script_runner": {
-    "name": "JSX Runner (Adobe Script Runner)",
+    "name": "Lanceur de scripts Adobe",
     "description": "Enregistre et exécute facilement des scripts pour Adobe Photoshop et Illustrator.",
     "category": [
-      "Travail/Productivité"
+      "Création/Design"
     ]
   },
   "com.cookie.shortcuts": {
     "name": "Lanceur de raccourcis",
     "description": "Enregistre des fichiers, dossiers, textes fréquents ou raccourcis. (EXE, LNK, UWP, macros texte, etc.)",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire"
+      "Travail/Productivité"
     ]
   },
   "com.cookie.slack": {
-    "name": "Slack Controller",
+    "name": "Slack",
     "description": "Accède rapidement aux fonctions courantes de Slack.",
     "category": [
-      "Social/Communication",
-      "Travail/Productivité",
-      "Développement"
+      "Travail/Productivité"
     ]
   },
   "com.cookie.spotify": {
-    "name": "Spotify API Controller",
+    "name": "Spotify",
     "description": "Contrôle l’application via l’API Spotify. (Accès API requis)",
     "category": [
-      "Utilitaire",
-      "Audio/Vidéo"
+      "Audio/DAW"
     ]
   },
   "com.cookie.stock": {
-    "name": "Suivi boursier",
+    "name": "Action en direct",
     "description": "Affiche des informations boursières à partir des données Yahoo Finance.",
     "category": [
-      "Utilitaire",
-      "Social/Communication"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.stopwatch": {
     "name": "Chronomètre",
     "description": "Lance un chronomètre sur l’écran de l’appareil.",
     "category": [
-      "Utilitaire",
-      "Travail/Productivité"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.studioone": {
-    "name": "Fender Studio Pro Controller (Studio One)",
+    "name": "Fender Studio Pro (Studio One)",
     "description": "Contrôle facilement Fender Studio. (Compatible avec Studio One)",
     "category": [
-      "Travail/Productivité",
-      "DAW"
+      "Audio/DAW"
     ]
   },
   "com.cookie.teams": {
-    "name": "Microsoft Teams Controller",
+    "name": "Microsoft Teams",
     "description": "Contrôle le micro, la caméra et le flou d’arrière-plan dans les réunions Microsoft Teams.",
     "category": [
-      "Social/Communication",
       "Travail/Productivité"
     ]
   },
   "com.cookie.twitch": {
-    "name": "Contrôle Twitch",
+    "name": "Twitch",
     "description": "Contrôle le stream Twitch, le chat, les publicités, clips et titres via l’API Helix.",
     "category": [
-      "Streaming",
-      "Social/Communication",
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.unity": {
-    "name": "Unity Engine Controller",
+    "name": "Unity",
     "description": "Enregistre et utilise les fonctions fréquentes du moteur Unity.",
     "category": [
-      "Création/Design",
-      "Travail/Productivité",
       "Développement"
     ]
   },
   "com.cookie.unreal": {
-    "name": "Unreal Engine Controller",
+    "name": "Unreal Engine",
     "description": "Enregistre et utilise les fonctions fréquentes d’Unreal Engine.",
     "category": [
-      "Création/Design",
-      "Travail/Productivité",
       "Développement"
     ]
   },
   "com.cookie.virtualdesktop": {
-    "name": "Bureau virtuel Windows",
+    "name": "Bureau virtuel",
     "description": "Utilise des bureaux virtuels pour séparer le travail, le jeu et les autres tâches selon leur usage.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.voicetalker": {
-    "name": "Lecture vocale TTS",
+    "name": "Voice Talker",
     "description": "Lit le texte saisi par l’utilisateur avec le moteur TTS de Windows.",
     "category": [
-      "Utilitaire"
+      "Audio/DAW"
     ]
   },
   "com.cookie.weather": {
-    "name": "Météo",
+    "name": "Météo en direct",
     "description": "Consulte la météo d’une ville sélectionnée.",
     "category": [
-      "Utilitaire"
+      "Maison connectée"
     ]
   },
   "com.cookie.web": {
@@ -394,37 +340,34 @@
     "name": "Webhook",
     "description": "Un plugin pour utilisateurs avancés qui envoie des requêtes HTTP vers des API externes et des serveurs domotiques comme Home Assistant.",
     "category": [
-      "Développement",
-      "Système",
       "Maison connectée"
     ]
   },
   "com.cookie.windowmover": {
-    "name": "Déplacement de fenêtres",
+    "name": "Window Mover",
     "description": "Place les fenêtres où vous le souhaitez dans Windows.",
     "category": [
-      "Utilitaire"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.windowsmedia": {
-    "name": "Contrôleur média Windows",
+    "name": "Windows Media",
     "description": "Contrôle les médias lus dans Windows Media Player et les navigateurs web.",
     "category": [
-      "Audio/Vidéo"
+      "Audio/DAW"
     ]
   },
   "com.cookie.word": {
-    "name": "Assistant MS Word",
+    "name": "MS Word",
     "description": "Exécute en un clic les fonctions et mises en forme fréquentes dans Word.",
     "category": [
       "Travail/Productivité"
     ]
   },
   "com.cookie.zoom": {
-    "name": "Zoom Controller",
+    "name": "Zoom",
     "description": "Bascule rapidement le micro et la caméra lors des réunions vidéo. Pour utiliser les raccourcis quand Zoom est réduit, activez le raccourci global.",
     "category": [
-      "Social/Communication",
       "Travail/Productivité"
     ]
   },
@@ -432,149 +375,126 @@
     "name": "Exécuteur multi-actions",
     "description": "Exécute toutes les actions des plugins installés en une seule fois.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire"
+      "Travail/Productivité"
     ]
   },
   "com.cookie.github": {
-    "name": "Surveillance GitHub",
+    "name": "GitHub",
     "description": "Surveille les alertes GitHub, l’activité de contribution et plus encore.",
     "category": [
-      "Développement",
-      "Social/Communication"
+      "Développement"
     ]
   },
   "com.cookie.obs": {
     "name": "OBS Studio",
     "description": "Contrôle les fonctions OBS comme le démarrage du stream, l’enregistrement et l’activation/désactivation du fond vert.",
     "category": [
-      "Streaming",
-      "Audio/Vidéo",
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.prism": {
     "name": "PRISM Live Studio",
     "description": "Se connecte à PRISM Live Studio via WebSocket pour contrôler le streaming, les scènes et les sources.",
     "category": [
-      "Streaming",
-      "Audio/Vidéo",
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.systemmonitor": {
     "name": "Moniteur système",
     "description": "Affiche diverses informations système comme l’utilisation CPU et les détails réseau.",
     "category": [
-      "Utilitaire"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.vmix": {
-    "name": "Contrôle vMix",
+    "name": "vMix",
     "description": "Utilise l’API HTTP de vMix pour contrôler la sortie live, les sources multimédia et l’audio avec un délai minimal.",
     "category": [
-      "Streaming",
-      "Audio/Vidéo",
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.vscodedevtools": {
-    "name": "Outils VS Code & Git",
+    "name": "VS Code & Git",
     "description": "Inclut des commandes fréquemment utilisées pour VS Code et Git.",
     "category": [
-      "Utilitaire",
       "Développement"
     ]
   },
   "com.cookie.vtubestudio": {
-    "name": "VTube Studio Controller",
+    "name": "VTube Studio",
     "description": "Contrôle les fonctions de VTube Studio. L’appareil mobile doit être sur le même réseau.",
     "category": [
-      "Streaming",
-      "Audio/Vidéo",
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.xsplit": {
     "name": "XSplit Broadcaster",
     "description": "Contrôle XSplit Broadcaster.",
     "category": [
-      "Streaming",
-      "Audio/Vidéo",
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.random": {
-    "name": "Générateur de nombres aléatoires",
+    "name": "Choix aléatoire",
     "description": "Propose différents tirages aléatoires comme dé, pile ou face, roulette russe et coquillage magique.",
     "category": [
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.tiktok": {
     "name": "TikTok Live Studio",
     "description": "Contrôle TikTok Live Studio.",
     "category": [
-      "Streaming",
-      "Audio/Vidéo",
-      "Gaming"
+      "Streaming"
     ]
   },
   "com.cookie.hpdisplayquicksettings": {
-    "name": "Réglages rapides d’écran HP",
+    "name": "Paramètres d’affichage HP",
     "description": "Contrôlez rapidement les réglages d’écran compatibles et organisez les fenêtres avec des dispositions personnalisables.",
     "category": [
-      "Utility",
-      "System"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.clipstudio": {
     "name": "Clip Studio Paint",
     "description": "Contrôlez les outils et fonctions d’édition fréquemment utilisés de Clip Studio Paint avec des raccourcis.",
     "category": [
-      "Creator/Design",
-      "Business/Productivity"
+      "Création/Design"
     ]
   },
   "com.cookie.ai_capture": {
     "name": "AI Link",
     "description": "Créez des raccourcis IA réutilisables avec des prompts prédéfinis. Choisissez une tâche et une IA, puis envoyez le prompt en un clic.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire"
+      "Travail/Productivité"
     ]
   },
   "com.cookie.codex": {
     "name": "Codex",
     "description": "Surveillez l’état des sessions Codex, contrôlez la dictée vocale et le niveau de raisonnement, puis approuvez ou refusez les demandes depuis COMBO-X.",
     "category": [
-      "Travail/Productivité",
-      "Développement",
-      "Utilitaire"
+      "Développement"
     ]
   },
   "com.cookie.claude_code": {
     "name": "Claude Code",
     "description": "Surveillez l’état des sessions Claude Code, contrôlez la dictée vocale, puis approuvez ou refusez les demandes depuis COMBO-X.",
     "category": [
-      "Travail/Productivité",
-      "Développement",
-      "Utilitaire"
+      "Développement"
     ]
   },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Ouvre des applications, des sites web, des fichiers et des dossiers.",
     "category": [
-      "Travail/Productivité",
-      "Utilitaire"
+      "Système/Utilitaires"
     ]
   },
   "com.cookie.screenshot": {
     "name": "Capture d’écran",
     "description": "Capturez et annotez le bureau entier, la fenêtre active ou une zone sélectionnée.",
     "category": [
-      "Utilitaire"
+      "Création/Design"
     ]
   }
 }

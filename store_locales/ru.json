@@ -1,121 +1,104 @@
 {
   "com.cookie.ableton": {
-    "name": "Ableton Live Controller",
+    "name": "Ableton Live",
     "description": "Предоставляет удобные элементы управления для Ableton Live.",
     "category": [
-      "Работа/Продуктивность",
-      "DAW"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.aftereffects": {
     "name": "Adobe After Effects",
     "description": "Быстро выполняет сочетания клавиш After Effects для ключевых кадров, навигации по таймлайну и свойств слоёв.",
     "category": [
-      "Творчество/Дизайн",
-      "Работа/Продуктивность",
-      "Разработка"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.appvolume": {
-    "name": "App Volume Mixer",
+    "name": "Микшер громкости приложений",
     "description": "Ищет запущенные программы и отдельно регулирует или выключает звук для каждого приложения.",
     "category": [
-      "Аудио/Видео",
-      "Утилиты"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.audioswitcher": {
     "name": "Переключатель аудио",
     "description": "Управляет несколькими аудиоустройствами, подключёнными к компьютеру.",
     "category": [
-      "Утилиты",
-      "Аудио/Видео"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.blender": {
-    "name": "Blender Controller",
+    "name": "Blender",
     "description": "Позволяет удобно пользоваться различными функциями Blender.",
     "category": [
-      "Разработка",
-      "Работа/Продуктивность"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.clipboardmanager": {
-    "name": "Менеджер буфера обмена",
+    "name": "Буфер обмена и сниппеты",
     "description": "Показывает содержимое буфера обмена или сохраняет часто используемый текст для быстрого доступа.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
+      "Работа/Продуктивность"
     ]
   },
   "com.cookie.colorpicker": {
-    "name": "Пипетка",
+    "name": "Пипетка цвета",
     "description": "Считывает цвета с экрана и показывает их на LCD-дисплее.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
+      "Работа/Продуктивность"
     ]
   },
   "com.cookie.companion": {
-    "name": "Управление Bitfocus Companion",
+    "name": "Bitfocus Companion",
     "description": "Используйте этот плагин для управления Bitfocus Companion.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты",
-      "Стриминг",
-      "Система"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.crypto": {
-    "name": "Трекер криптовалют",
+    "name": "Крипто-монитор",
     "description": "Добавляйте криптовалюты вроде Bitcoin и Ethereum и отслеживайте их в реальном времени.",
     "category": [
-      "Утилиты",
-      "Соцсети/Коммуникация"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.cubase": {
-    "name": "Cubase Controller",
+    "name": "Cubase",
     "description": "Позволяет легко использовать различные функции Cubase.",
     "category": [
-      "Работа/Продуктивность",
-      "DAW"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.davinci": {
-    "name": "DaVinci Resolve Controller",
+    "name": "DaVinci Resolve",
     "description": "Управляет воспроизведением J/K/L, инструментами резки таймлайна и маркерами в DaVinci Resolve с помощью горячих клавиш.",
     "category": [
-      "Творчество/Дизайн",
-      "Видео/Стриминг"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.devops": {
-    "name": "DevOps Monitoring",
+    "name": "Инструменты DevOps",
     "description": "Отслеживает состояние Vercel, Netlify, Cloudflare, Railway и GitHub в одном месте.",
     "category": [
-      "Разработка",
-      "Соцсети/Коммуникация"
+      "Разработка"
     ]
   },
   "com.cookie.discord.pro": {
-    "name": "Discord Pro",
+    "name": "Discord API",
     "description": "Плагин Discord с использованием API. Для API-функций требуется регистрация Client ID.",
     "category": [
-      "Игры",
       "Соцсети/Коммуникация"
     ]
   },
   "com.cookie.discord": {
-    "name": "Управление Discord",
+    "name": "Discord",
     "description": "Предоставляет различные элементы управления для Discord.",
     "category": [
-      "Игры",
       "Соцсети/Коммуникация"
     ]
   },
   "com.cookie.excel": {
-    "name": "Горячие клавиши Excel",
+    "name": "MS Excel",
     "description": "Включает часто используемые сочетания клавиш Excel.",
     "category": [
       "Работа/Продуктивность"
@@ -125,36 +108,32 @@
     "name": "Figma",
     "description": "Запускает основные действия Figma, такие как Auto Layout, компоненты и копирование/вставка свойств, с помощью горячих клавиш.",
     "category": [
-      "Творчество/Дизайн",
-      "Работа/Продуктивность"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.flstudio": {
-    "name": "FL Studio Controller",
+    "name": "FL Studio",
     "description": "Отправляет сочетания клавиш FL Studio или MIDI-сигналы управления.",
     "category": [
-      "Работа/Продуктивность",
-      "DAW"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.homeassistant": {
     "name": "Домашний ассистент",
     "description": "Вызывает сервисы Home Assistant для света, переключателей, сцен, штор, медиаплееров и скриптов.",
     "category": [
-      "Умный дом",
-      "Утилиты"
+      "Умный дом"
     ]
   },
   "com.cookie.hue": {
     "name": "Philips Hue",
     "description": "Напрямую взаимодействует с мостом Philips Hue по локальной сети, чтобы включать и выключать свет с минимальной задержкой.",
     "category": [
-      "Умный дом",
-      "Игры"
+      "Умный дом"
     ]
   },
   "com.cookie.hwp": {
-    "name": "Помощник Hancom Office",
+    "name": "Hancom Office",
     "description": "Ускоряет работу с документами с помощью часто используемых сочетаний клавиш Hancom Office.",
     "category": [
       "Работа/Продуктивность"
@@ -164,89 +143,74 @@
     "name": "IFTTT",
     "description": "Управляет множеством внешних устройств и сервисов автоматизации, такими как умный свет, розетки и соцсети, через IFTTT Webhooks.",
     "category": [
-      "Умный дом",
-      "Система"
+      "Умный дом"
     ]
   },
   "com.cookie.illustrator": {
     "name": "Adobe Illustrator",
     "description": "Быстро запускает инструменты рисования, Pathfinder, маски и выравнивание объектов в Adobe Illustrator с помощью горячих клавиш.",
     "category": [
-      "Творчество/Дизайн",
-      "Работа/Продуктивность",
-      "Разработка"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.meet": {
-    "name": "Google Meet Controller",
+    "name": "Google Meet",
     "description": "Управляет микрофоном и камерой в Google Meet. Для работы окно браузера должно быть активным.",
     "category": [
-      "Соцсети/Коммуникация",
       "Работа/Продуктивность"
     ]
   },
   "com.cookie.midi": {
-    "name": "Контроллер MIDI-сигналов",
+    "name": "MIDI",
     "description": "Выбирает и отправляет MIDI-значения, такие как PC и CC.",
     "category": [
-      "Работа/Продуктивность",
-      "DAW"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.mouse": {
-    "name": "Управление мышью",
+    "name": "Контроллер мыши",
     "description": "Назначает часто используемые функции мыши, такие как двойной щелчок, горизонтальная прокрутка и кнопка назад.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты",
-      "Система"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.mousesimulator": {
     "name": "Симулятор мыши",
     "description": "Записывает действия мыши и мгновенно воспроизводит их.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты",
-      "Система"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.multimedia": {
     "name": "Медиа и громкость",
     "description": "Выполняет мультимедийные действия, такие как отключение звука, регулировка громкости и воспроизведение видео.",
     "category": [
-      "Утилиты",
-      "Аудио/Видео"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.notion": {
-    "name": "Notion Controller",
+    "name": "Notion",
     "description": "Нажмите кнопку, чтобы сразу вставить данные в базу или быстро открыть часто используемые функции Notion.",
     "category": [
-      "Соцсети/Коммуникация",
-      "Работа/Продуктивность",
-      "Разработка"
+      "Работа/Продуктивность"
     ]
   },
   "com.cookie.photoshop": {
     "name": "Adobe Photoshop",
     "description": "Быстро управляет основными инструментами и функциями редактирования Photoshop с помощью горячих клавиш.",
     "category": [
-      "Творчество/Дизайн",
-      "Работа/Продуктивность",
-      "Разработка"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.pomodoro": {
-    "name": "Таймер Pomodoro",
+    "name": "Таймер Помодоро",
     "description": "Таймер, помогающий сосредоточиться с циклами вроде 25 минут работы и 5 минут отдыха.",
     "category": [
-      "Утилиты",
       "Работа/Продуктивность"
     ]
   },
   "com.cookie.powerpoint": {
-    "name": "Microsoft PowerPoint",
+    "name": "MS PowerPoint",
     "description": "Управляет навигацией по слайдам, лазерной указкой и часто используемыми действиями форматирования/группировки в PowerPoint.",
     "category": [
       "Работа/Продуктивность"
@@ -256,130 +220,112 @@
     "name": "Adobe Premiere Pro",
     "description": "Быстро выполняет монтаж на таймлайне, управление воспроизведением и выбор инструментов в Premiere Pro.",
     "category": [
-      "Творчество/Дизайн",
-      "Работа/Продуктивность",
-      "Разработка"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.protools": {
-    "name": "Pro Tools Controller",
+    "name": "Pro Tools",
     "description": "Позволяет удобно пользоваться часто используемыми функциями Pro Tools.",
     "category": [
-      "Работа/Продуктивность",
-      "DAW"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.adobe.script_runner": {
-    "name": "JSX Runner (Adobe Script Runner)",
+    "name": "Запускатель скриптов Adobe",
     "description": "Позволяет легко регистрировать и запускать скрипты для Adobe Photoshop и Illustrator.",
     "category": [
-      "Работа/Продуктивность"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.shortcuts": {
     "name": "Запуск ярлыков",
     "description": "Регистрирует файлы, папки, часто используемый текст или ярлыки. (EXE, LNK, UWP, текстовые макросы и т. д.)",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
+      "Работа/Продуктивность"
     ]
   },
   "com.cookie.slack": {
-    "name": "Slack Controller",
+    "name": "Slack",
     "description": "Обеспечивает быстрый доступ к часто используемым функциям Slack.",
     "category": [
-      "Соцсети/Коммуникация",
-      "Работа/Продуктивность",
-      "Разработка"
+      "Работа/Продуктивность"
     ]
   },
   "com.cookie.spotify": {
-    "name": "Spotify API Controller",
+    "name": "Spotify",
     "description": "Управляет приложением через API Spotify. (Требуется доступ к API)",
     "category": [
-      "Утилиты",
-      "Аудио/Видео"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.stock": {
-    "name": "Трекер акций",
+    "name": "Живые акции",
     "description": "Показывает биржевую информацию с использованием данных Yahoo Finance.",
     "category": [
-      "Утилиты",
-      "Соцсети/Коммуникация"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.stopwatch": {
     "name": "Секундомер",
     "description": "Запускает секундомер на экране устройства.",
     "category": [
-      "Утилиты",
-      "Работа/Продуктивность"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.studioone": {
-    "name": "Fender Studio Pro Controller (Studio One)",
+    "name": "Fender Studio Pro (Studio One)",
     "description": "Удобно управляет Fender Studio. (Совместимо со Studio One)",
     "category": [
-      "Работа/Продуктивность",
-      "DAW"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.teams": {
-    "name": "Microsoft Teams Controller",
+    "name": "Microsoft Teams",
     "description": "Управляет микрофоном, камерой и размытием фона в собраниях Microsoft Teams.",
     "category": [
-      "Соцсети/Коммуникация",
       "Работа/Продуктивность"
     ]
   },
   "com.cookie.twitch": {
-    "name": "Управление Twitch",
+    "name": "Twitch",
     "description": "Управляет трансляцией Twitch, чатом, рекламой, клипами и названием через Helix API.",
     "category": [
-      "Стриминг",
-      "Соцсети/Коммуникация",
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.unity": {
-    "name": "Unity Engine Controller",
+    "name": "Unity",
     "description": "Регистрирует и использует часто применяемые функции в движке Unity.",
     "category": [
-      "Творчество/Дизайн",
-      "Работа/Продуктивность",
       "Разработка"
     ]
   },
   "com.cookie.unreal": {
-    "name": "Unreal Engine Controller",
+    "name": "Unreal Engine",
     "description": "Регистрирует и использует часто применяемые функции в Unreal Engine.",
     "category": [
-      "Творчество/Дизайн",
-      "Работа/Продуктивность",
       "Разработка"
     ]
   },
   "com.cookie.virtualdesktop": {
-    "name": "Виртуальный рабочий стол Windows",
+    "name": "Виртуальный рабочий стол",
     "description": "Использует виртуальные рабочие столы, чтобы разделять работу, игры и другие задачи по назначению.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.voicetalker": {
-    "name": "Голосовой TTS",
+    "name": "Voice Talker",
     "description": "Озвучивает введённый пользователем текст с помощью движка Windows TTS.",
     "category": [
-      "Утилиты"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.weather": {
-    "name": "Погода",
+    "name": "Погода в реальном времени",
     "description": "Показывает погоду для выбранного города.",
     "category": [
-      "Утилиты"
+      "Умный дом"
     ]
   },
   "com.cookie.web": {
@@ -394,37 +340,34 @@
     "name": "Webhook",
     "description": "Плагин для продвинутых пользователей, который отправляет HTTP-запросы к внешним API и серверам умного дома, например Home Assistant.",
     "category": [
-      "Разработка",
-      "Система",
       "Умный дом"
     ]
   },
   "com.cookie.windowmover": {
-    "name": "Перемещение окон",
+    "name": "Window Mover",
     "description": "Размещает окна в любом месте Windows.",
     "category": [
-      "Утилиты"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.windowsmedia": {
-    "name": "Контроллер Windows Media",
+    "name": "Windows Media",
     "description": "Управляет медиа, воспроизводимыми в Windows Media Player и веб-браузерах.",
     "category": [
-      "Аудио/Видео"
+      "Аудио/DAW"
     ]
   },
   "com.cookie.word": {
-    "name": "Помощник MS Word",
+    "name": "MS Word",
     "description": "Выполняет часто используемое форматирование и функции в Word одним нажатием.",
     "category": [
       "Работа/Продуктивность"
     ]
   },
   "com.cookie.zoom": {
-    "name": "Zoom Controller",
+    "name": "Zoom",
     "description": "Быстро переключает микрофон и камеру на видеовстречах. Чтобы использовать сочетания клавиш при свернутом Zoom, включите глобальные горячие клавиши.",
     "category": [
-      "Соцсети/Коммуникация",
       "Работа/Продуктивность"
     ]
   },
@@ -432,149 +375,126 @@
     "name": "Мультидействие",
     "description": "Одновременно запускает действия всех установленных плагинов.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
+      "Работа/Продуктивность"
     ]
   },
   "com.cookie.github": {
-    "name": "Мониторинг GitHub",
+    "name": "GitHub",
     "description": "Отслеживает уведомления GitHub, активность вкладов и многое другое.",
     "category": [
-      "Разработка",
-      "Соцсети/Коммуникация"
+      "Разработка"
     ]
   },
   "com.cookie.obs": {
     "name": "OBS Studio",
     "description": "Управляет функциями OBS, такими как запуск стрима, запись и включение/выключение хромакея.",
     "category": [
-      "Стриминг",
-      "Аудио/Видео",
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.prism": {
     "name": "PRISM Live Studio",
     "description": "Подключается к PRISM Live Studio через WebSocket для управления стримингом, сценами и источниками.",
     "category": [
-      "Стриминг",
-      "Аудио/Видео",
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.systemmonitor": {
     "name": "Системный монитор",
     "description": "Показывает различную системную информацию, например загрузку CPU и сведения о сети.",
     "category": [
-      "Утилиты"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.vmix": {
-    "name": "Управление vMix",
+    "name": "vMix",
     "description": "Использует HTTP API vMix для управления прямым эфиром, медиаисточниками и аудио с минимальной задержкой.",
     "category": [
-      "Стриминг",
-      "Аудио/Видео",
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.vscodedevtools": {
-    "name": "Инструменты VS Code и Git",
+    "name": "VS Code & Git",
     "description": "Включает часто используемые команды для VS Code и Git.",
     "category": [
-      "Утилиты",
       "Разработка"
     ]
   },
   "com.cookie.vtubestudio": {
-    "name": "VTube Studio Controller",
+    "name": "VTube Studio",
     "description": "Управляет функциями VTube Studio. Мобильное устройство должно находиться в той же сети.",
     "category": [
-      "Стриминг",
-      "Аудио/Видео",
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.xsplit": {
     "name": "XSplit Broadcaster",
     "description": "Управляет XSplit Broadcaster.",
     "category": [
-      "Стриминг",
-      "Аудио/Видео",
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.random": {
-    "name": "Генератор случайных чисел",
+    "name": "Случайный выбор",
     "description": "Предлагает различные случайные варианты, такие как кубик, подбрасывание монеты, русская рулетка и магическая ракушка.",
     "category": [
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.tiktok": {
     "name": "TikTok Live Studio",
     "description": "Управляет TikTok Live Studio.",
     "category": [
-      "Стриминг",
-      "Аудио/Видео",
-      "Игры"
+      "Стриминг"
     ]
   },
   "com.cookie.hpdisplayquicksettings": {
-    "name": "Быстрые настройки дисплея HP",
+    "name": "Настройки дисплея HP",
     "description": "Быстро управляйте поддерживаемыми настройками дисплея и размещайте окна с помощью настраиваемых макетов.",
     "category": [
-      "Утилиты",
-      "Система"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.clipstudio": {
     "name": "Clip Studio Paint",
     "description": "Управляйте часто используемыми инструментами и функциями редактирования Clip Studio Paint с помощью сочетаний клавиш.",
     "category": [
-      "Творчество/Дизайн",
-      "Бизнес/Продуктивность"
+      "Творчество/Дизайн"
     ]
   },
   "com.cookie.ai_capture": {
     "name": "AI Link",
     "description": "Создавайте многоразовые AI-команды с готовыми запросами. Выберите задачу и AI и отправьте запрос одним нажатием.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
+      "Работа/Продуктивность"
     ]
   },
   "com.cookie.codex": {
     "name": "Codex",
     "description": "Отслеживайте состояние сеансов Codex, управляйте голосовым вводом и уровнем рассуждений, а также подтверждайте или отклоняйте запросы с COMBO-X.",
     "category": [
-      "Работа/Продуктивность",
-      "Разработка",
-      "Утилиты"
+      "Разработка"
     ]
   },
   "com.cookie.claude_code": {
     "name": "Claude Code",
     "description": "Отслеживайте состояние сеансов Claude Code, управляйте голосовым вводом и подтверждайте или отклоняйте запросы с COMBO-X.",
     "category": [
-      "Работа/Продуктивность",
-      "Разработка",
-      "Утилиты"
+      "Разработка"
     ]
   },
   "com.cookie.launch": {
     "name": "Launch",
     "description": "Открывает приложения, веб-сайты, файлы и папки.",
     "category": [
-      "Работа/Продуктивность",
-      "Утилиты"
+      "Система/Утилиты"
     ]
   },
   "com.cookie.screenshot": {
     "name": "Снимок экрана",
     "description": "Снимайте и редактируйте весь рабочий стол, активное окно или выбранную область.",
     "category": [
-      "Утилиты"
+      "Творчество/Дизайн"
     ]
   }
 }
