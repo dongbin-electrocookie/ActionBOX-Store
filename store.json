@@ -483,6 +483,7 @@
     },
     {
       "uuid": "com.cookie.xsplit",
+      "supported_platforms": ["windows"],
       "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
