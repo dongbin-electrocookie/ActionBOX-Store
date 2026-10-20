@@ -387,19 +387,12 @@
     },
     {
       "uuid": "com.cookie.windowmover",
+      "supported_platforms": ["windows"],
       "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.windowmove.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowmover.zip"
-    },
-    {
-      "uuid": "com.cookie.windowsmedia",
-      "type": "internal",
-      "author": "ElectroCookie",
-      "version": "1.0.0",
-      "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.windowsmedia.png",
-      "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowsmedia.zip"
     },
     {
       "uuid": "com.cookie.word",
@@ -508,6 +501,7 @@
     },
     {
       "uuid": "com.cookie.hpdisplayquicksettings",
+      "supported_platforms": ["windows"],
       "type": "internal",
       "author": "ElectroCookie",
       "version": "1.0.0",
