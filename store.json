@@ -4,7 +4,7 @@
     {
       "uuid": "com.cookie.ableton",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ableton.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ableton.zip"
@@ -12,7 +12,7 @@
     {
       "uuid": "com.cookie.aftereffects",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.aftereffects.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.aftereffects.zip"
@@ -20,7 +20,7 @@
     {
       "uuid": "com.cookie.appvolume",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.appvolume.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.appvolume.zip"
@@ -28,7 +28,7 @@
     {
       "uuid": "com.cookie.audioswitcher",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.audioswitcher.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.audioswitcher.zip"
@@ -36,7 +36,7 @@
     {
       "uuid": "com.cookie.blender",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.blender.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.blender.zip"
@@ -44,7 +44,7 @@
     {
       "uuid": "com.cookie.clipboardmanager",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.clipboardmanager.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipboardmanager.zip"
@@ -52,7 +52,7 @@
     {
       "uuid": "com.cookie.colorpicker",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.colorpicker.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.colorpicker.zip"
@@ -60,7 +60,7 @@
     {
       "uuid": "com.cookie.companion",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.companion.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.companion.zip"
@@ -68,7 +68,7 @@
     {
       "uuid": "com.cookie.crypto",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.crypto.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.crypto.zip"
@@ -76,7 +76,7 @@
     {
       "uuid": "com.cookie.cubase",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.cubase.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.cubase.zip"
@@ -84,7 +84,7 @@
     {
       "uuid": "com.cookie.davinci",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.davinci.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.davinci.zip"
@@ -92,7 +92,7 @@
     {
       "uuid": "com.cookie.devops",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.devops.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.devops.zip"
@@ -100,7 +100,7 @@
     {
       "uuid": "com.cookie.discord.pro",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.pro.zip"
@@ -108,7 +108,7 @@
     {
       "uuid": "com.cookie.discord",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.discord.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.discord.zip"
@@ -116,7 +116,7 @@
     {
       "uuid": "com.cookie.excel",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.excel.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.excel.zip"
@@ -124,7 +124,7 @@
     {
       "uuid": "com.cookie.figma",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.figma.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.figma.zip"
@@ -132,7 +132,7 @@
     {
       "uuid": "com.cookie.flstudio",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.flstudio.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.flstudio.zip"
@@ -140,7 +140,7 @@
     {
       "uuid": "com.cookie.homeassistant",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.homeassistant.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.homeassistant.zip"
@@ -148,7 +148,7 @@
     {
       "uuid": "com.cookie.hue",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hue.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hue.zip"
@@ -156,7 +156,7 @@
     {
       "uuid": "com.cookie.hwp",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hwp.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hwp.zip"
@@ -164,7 +164,7 @@
     {
       "uuid": "com.cookie.ifttt",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ifttt.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ifttt.zip"
@@ -172,7 +172,7 @@
     {
       "uuid": "com.cookie.illustrator",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.illustrator.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.illustrator.zip"
@@ -180,7 +180,7 @@
     {
       "uuid": "com.cookie.meet",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.meet.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.meet.zip"
@@ -188,7 +188,7 @@
     {
       "uuid": "com.cookie.midi",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.midi.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.midi.zip"
@@ -196,7 +196,7 @@
     {
       "uuid": "com.cookie.mouse",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.mouse.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.mouse.zip"
@@ -204,7 +204,7 @@
     {
       "uuid": "com.cookie.mousesimulator",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.mousesimulator.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.mousesimulator.zip"
@@ -212,7 +212,7 @@
     {
       "uuid": "com.cookie.multimedia",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.multimedia.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.multimedia.zip"
@@ -220,7 +220,7 @@
     {
       "uuid": "com.cookie.notion",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.notion.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.notion.zip"
@@ -228,7 +228,7 @@
     {
       "uuid": "com.cookie.photoshop",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.photoshop.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.photoshop.zip"
@@ -236,7 +236,7 @@
     {
       "uuid": "com.cookie.pomodoro",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.pomodoro.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.pomodoro.zip"
@@ -244,7 +244,7 @@
     {
       "uuid": "com.cookie.powerpoint",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.powerpoint.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.powerpoint.zip"
@@ -252,7 +252,7 @@
     {
       "uuid": "com.cookie.premiere",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.premiere.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.premiere.zip"
@@ -260,7 +260,7 @@
     {
       "uuid": "com.cookie.protools",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.protools.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.protools.zip"
@@ -268,7 +268,7 @@
     {
       "uuid": "com.cookie.adobe.script_runner",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.scriptrunner.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.adobe.script_runner.zip"
@@ -276,7 +276,7 @@
     {
       "uuid": "com.cookie.shortcuts",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.shortcuts.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.shortcuts.zip"
@@ -284,7 +284,7 @@
     {
       "uuid": "com.cookie.slack",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.slack.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.slack.zip"
@@ -292,7 +292,7 @@
     {
       "uuid": "com.cookie.spotify",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.spotify.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.spotify.zip"
@@ -300,7 +300,7 @@
     {
       "uuid": "com.cookie.stock",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.stock.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.stock.zip"
@@ -308,7 +308,7 @@
     {
       "uuid": "com.cookie.stopwatch",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.stopwatch.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.stopwatch.zip"
@@ -316,7 +316,7 @@
     {
       "uuid": "com.cookie.studioone",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.studioone.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.studioone.zip"
@@ -324,7 +324,7 @@
     {
       "uuid": "com.cookie.teams",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.teams.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.teams.zip"
@@ -332,7 +332,7 @@
     {
       "uuid": "com.cookie.twitch",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.twitch.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.twitch.zip"
@@ -340,7 +340,7 @@
     {
       "uuid": "com.cookie.unity",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.unity.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.unity.zip"
@@ -348,7 +348,7 @@
     {
       "uuid": "com.cookie.unreal",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.unreal.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.unreal.zip"
@@ -356,7 +356,7 @@
     {
       "uuid": "com.cookie.virtualdesktop",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.virtualdesktop.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.virtualdesktop.zip"
@@ -364,7 +364,7 @@
     {
       "uuid": "com.cookie.voicetalker",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.voicetalker.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.voicetalker.zip"
@@ -372,7 +372,7 @@
     {
       "uuid": "com.cookie.weather",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.weather.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.weather.zip"
@@ -380,7 +380,7 @@
     {
       "uuid": "com.cookie.webhook",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.webhook.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.webhook.zip"
@@ -389,7 +389,7 @@
       "uuid": "com.cookie.windowmover",
       "supported_platforms": ["windows"],
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.windowmove.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.windowmover.zip"
@@ -397,7 +397,7 @@
     {
       "uuid": "com.cookie.word",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.word.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.word.zip"
@@ -405,7 +405,7 @@
     {
       "uuid": "com.cookie.zoom",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.zoom.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.zoom.zip"
@@ -413,7 +413,7 @@
     {
       "uuid": "com.cookiedeck.multiaction",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookiedeck.multiaction.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookiedeck.multiaction.zip"
@@ -421,7 +421,7 @@
     {
       "uuid": "com.cookie.github",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.github.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.github.zip"
@@ -429,7 +429,7 @@
     {
       "uuid": "com.cookie.obs",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.obs.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.obs.zip"
@@ -437,7 +437,7 @@
     {
       "uuid": "com.cookie.prism",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.prism.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.prism.zip"
@@ -445,7 +445,7 @@
     {
       "uuid": "com.cookie.systemmonitor",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.systemmonitor.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.systemmonitor.zip"
@@ -453,7 +453,7 @@
     {
       "uuid": "com.cookie.vmix",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vmix.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vmix.zip"
@@ -461,7 +461,7 @@
     {
       "uuid": "com.cookie.vscodedevtools",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vscodedevtools.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vscodedevtools.zip"
@@ -469,7 +469,7 @@
     {
       "uuid": "com.cookie.vtubestudio",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.vtubestudio.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.vtubestudio.zip"
@@ -478,7 +478,7 @@
       "uuid": "com.cookie.xsplit",
       "supported_platforms": ["windows"],
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.xsplit.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.xsplit.zip"
@@ -486,7 +486,7 @@
     {
       "uuid": "com.cookie.random",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.random.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.random.zip"
@@ -494,7 +494,7 @@
     {
       "uuid": "com.cookie.tiktok",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.tiktok.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.tiktok.zip"
@@ -503,7 +503,7 @@
       "uuid": "com.cookie.hpdisplayquicksettings",
       "supported_platforms": ["windows"],
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.hpdisplayquicksettings.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.hpdisplayquicksettings.zip"
@@ -511,7 +511,7 @@
     {
       "uuid": "com.cookie.clipstudio",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.clipstudio.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.clipstudio.zip"
@@ -519,7 +519,7 @@
     {
       "uuid": "com.cookie.ai_capture",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.ai_capture.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.ai_capture.zip"
@@ -527,7 +527,7 @@
     {
       "uuid": "com.cookie.codex",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.codex.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.codex.zip"
@@ -535,7 +535,7 @@
     {
       "uuid": "com.cookie.claude_code",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.claude_code.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.claude_code.zip"
@@ -543,7 +543,7 @@
     {
       "uuid": "com.cookie.launch",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.launch.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.launch.zip"
@@ -551,7 +551,7 @@
     {
       "uuid": "com.cookie.screenshot",
       "type": "internal",
-      "author": "ElectroCookie",
+      "author": "",
       "version": "1.0.0",
       "icon_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/icons/com.cookie.screenshot.png",
       "download_url": "https://raw.githubusercontent.com/dongbin-electrocookie/ActionBOX-Store/main/plugins/com.cookie.screenshot.zip"
